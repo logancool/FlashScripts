@@ -1,0 +1,39 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tween 5asdfasdf" itemID="53fbc40d-000008a6" symbolType="graphic" lastModified="1409008653">
+  <timeline>
+    <DOMTimeline name="Tween 5asdfasdf">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <matrix>
+                    <Matrix a="1.14239501953125" d="1.14239501953125" tx="-358.1" ty="-152.95"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="-0.0446624755859375" b="0.0305023193359375" c="-0.02130126953125" d="-0.0311737060546875" tx="313.5" ty="133.95"/>
+                        </matrix>
+                        <GradientEntry color="#FDEA86" ratio="0"/>
+                        <GradientEntry color="#FCFC7F" alpha="0" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!5561 3297|7063 2317!7063 2317|6901 2058!6901 2058|5476 3179!5476 3179|5561 3297"/>
+                    <Edge cubics="!5561 3297(;5561,3297 7063,2317 7063,2317p5561 3297 7063 2317);"/>
+                    <Edge cubics="!7063 2317(;7063,2317 6901,2058 6901,2058p7063 2317 6901 2058);"/>
+                    <Edge cubics="!6901 2058(;6901,2058 5476,3179 5476,3179p6901 2058 5476 3179);"/>
+                    <Edge cubics="!5476 3179(;5476,3179 5561,3297 5561,3297p5476 3179 5561 3297)5561,3297;"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

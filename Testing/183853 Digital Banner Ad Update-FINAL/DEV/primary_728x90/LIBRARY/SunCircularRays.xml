@@ -1,0 +1,33 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="SunCircularRays" itemID="53fb6906-0000040a" lastModified="1408985350">
+  <timeline>
+    <DOMTimeline name="SunCircularRays">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="0.25" ty="-0.25"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FBF291"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!-1526 5[-1526 634 -1080 1081!-1080 1081[-635 1526 -5 1526!-5 1526[625 1526 1071 1081!1071 1081[1516 634 1516 5!1516 5[1516 -625 1071 -1070!1071 -1070[625 -1516 -5 -1516!-5 -1516[-635 -1516 -1080 -1070!-1080 -1070[-1526 -625 -1526 5"/>
+                    <Edge cubics="!-1526 5(;-1526,844 -845,1526 -5,1526q-1526 5Q-1526 634q-1080 1081Q-635 1526q-5 1526);"/>
+                    <Edge cubics="!-5 1526(;835,1526 1516,844 1516,5q-5 1526Q625 1526q1071 1081Q1516 634q1516 5);"/>
+                    <Edge cubics="!1516 5(1516,5;1516,-835 835,-1516 -5,-1516q1516 5Q1516 -625q1071 -1070Q625 -1516q-5 -1516)-5,-1516;"/>
+                    <Edge cubics="!-5 -1516(;-845,-1516 -1526,-835 -1526,5q-5 -1516Q-635 -1516q-1080 -1070Q-1526 -625q-1526 5);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

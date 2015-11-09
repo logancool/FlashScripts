@@ -1,0 +1,79 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="SunRay20" itemID="53f7934d-000001ff" symbolType="graphic" lastModified="1408946745">
+  <timeline>
+    <DOMTimeline name="SunRay20" currentFrame="60">
+      <layers>
+        <DOMLayer name="Layer 2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" duration="60" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="100">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tween 16" symbolType="graphic" centerPoint3DX="71" centerPoint3DY="92.95" loop="loop">
+                  <matrix>
+                    <Matrix a="0.489990234375" d="0.489990234375" tx="71" ty="93"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="60" duration="33" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="-100">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tween 16" symbolType="graphic" centerPoint3DX="-0.05" centerPoint3DY="-0.05" loop="loop">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="93" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tween 16" symbolType="graphic" centerPoint3DX="-26.05" centerPoint3DY="-35.05" loop="loop">
+                  <matrix>
+                    <Matrix a="1.34999084472656" d="1.34999084472656" tx="-26" ty="-35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4F80FF" current="true" isSelected="true" layerType="guide">
+          <frames>
+            <DOMFrame index="0" duration="94" keyMode="9728">
+              <elements>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix a="1.14239501953125" d="1.14239501953125" tx="-163.65" ty="-102.6"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="0.050445556640625" b="0.0691375732421875" c="-0.0552520751953125" d="0.040313720703125" tx="143.3" ty="89.7"/>
+                        </matrix>
+                        <GradientEntry color="#FDEA86" ratio="0"/>
+                        <GradientEntry color="#FCFC7F" alpha="0" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!1991 673|2243 708!2243 708|3738 2878!3738 2878|3677 2918!3677 2918|1991 673"/>
+                    <Edge cubics="!1991 673(;1991,673 2243,708 2243,708p1991 673 2243 708);"/>
+                    <Edge cubics="!2243 708(;2243,708 3738,2878 3738,2878p2243 708 3738 2878);"/>
+                    <Edge cubics="!3738 2878(;3738,2878 3677,2918 3677,2918p3738 2878 3677 2918);"/>
+                    <Edge cubics="!3677 2918(;3677,2918 1991,673 1991,673p3677 2918 1991 673);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

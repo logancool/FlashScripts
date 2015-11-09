@@ -1,0 +1,73 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="mc/logoAnimate" itemID="53799dda-00006eef" lastModified="1400479984" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="logoAnimate" currentFrame="14">
+      <layers>
+        <DOMLayer name="Layer 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="14" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="14" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" duration="6" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="mc/logoShape">
+                  <matrix>
+                    <Matrix a="0.570556640625" d="0.570556640625" tx="-33.35" ty="-33.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="58.45" y="58.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" duration="4" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="mc/logoShape">
+                  <matrix>
+                    <Matrix tx="-58.45" ty="-58.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="58.45" y="58.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="10" duration="3" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="mc/logoShape">
+                  <matrix>
+                    <Matrix tx="-58.45" ty="-58.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="58.45" y="58.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="13" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="mc/logoShape">
+                  <matrix>
+                    <Matrix a="0.08154296875" d="0.08154296875" tx="-4.75" ty="-4.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="58.25" y="58.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

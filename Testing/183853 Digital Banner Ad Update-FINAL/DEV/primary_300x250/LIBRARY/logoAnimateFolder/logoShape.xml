@@ -1,0 +1,27 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="logoAnimateFolder/logoShape" itemID="53799dbf-00006eeb" lastModified="1400479167">
+  <timeline>
+    <DOMTimeline name="logoShape">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!2338 1430S2|1515 1430!1515 1430|1515 906!1515 906|2338 906!2338 906|2338 1430!1423 823|899 823!899 823|899 0!899 0|1423 0!1423 0|1423 823!1423 1507|1423 2330!1423 2330|899 2330!899 2330|899 1507!899 1507|1423 1507!0 1430|0 906!0 906
+|823 906!823 906|823 1430!823 1430|0 1430"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

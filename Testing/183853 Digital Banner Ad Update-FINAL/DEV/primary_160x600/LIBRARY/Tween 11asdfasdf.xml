@@ -1,0 +1,39 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tween 11asdfasdf" itemID="53fbc418-000008aa" symbolType="graphic" lastModified="1409008664">
+  <timeline>
+    <DOMTimeline name="Tween 11asdfasdf">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <matrix>
+                    <Matrix a="1.14239501953125" d="1.14239501953125" tx="-283.45" ty="-77.5"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="-0.0159759521484375" b="0.0858612060546875" c="-0.0813751220703125" d="-0.015167236328125" tx="248.2" ty="67.8"/>
+                        </matrix>
+                        <GradientEntry color="#FDEA86" ratio="0"/>
+                        <GradientEntry color="#FCFC7F" alpha="0" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!4970 0|4622 2693!4622 2693|4736 2714!4736 2714|5303 0!5303 0|4970 0"/>
+                    <Edge cubics="!4970 0(4970,0;4970,0 4622,2693 4622,2693p4970 0 4622 2693)4622,2693;"/>
+                    <Edge cubics="!4622 2693(;4622,2693 4736,2714 4736,2714p4622 2693 4736 2714);"/>
+                    <Edge cubics="!4736 2714(;4736,2714 5303,0 5303,0p4736 2714 5303 0);"/>
+                    <Edge cubics="!5303 0(;5303,0 4970,0 4970,0p5303 0 4970 0);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

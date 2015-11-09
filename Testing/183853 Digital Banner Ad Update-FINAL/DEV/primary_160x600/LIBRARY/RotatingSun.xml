@@ -1,0 +1,1508 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="RotatingSun" itemID="53f78912-0000014f" lastModified="1409002198" lastUniqueIdentifier="18">
+  <timeline>
+    <DOMTimeline name="RotatingSun" currentFrame="94">
+      <layers>
+        <DOMLayer name="Layer 13" color="#009999" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="94" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="RaysStatic" blendMode="overlay">
+                  <matrix>
+                    <Matrix a="0.867721557617188" d="0.867721557617188" tx="-1.3" ty="0.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="94" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="RaysStatic" blendMode="overlay" centerPoint3DX="-1.35" centerPoint3DY="0.85">
+                  <matrix>
+                    <Matrix a="0.97137451171875" b="0.579315185546875" c="-0.579315185546875" d="0.97137451171875" tx="-1.35" ty="0.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 12" color="#FF4FFF" visible="false" layerType="guide">
+          <frames>
+            <DOMFrame index="0" duration="95" keyMode="9728">
+              <elements>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix a="0.6846923828125" b="0.168365478515625" c="-0.168365478515625" d="0.6846923828125" tx="-126.25" ty="-167.55"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="-0.098297119140625" b="9.1552734375e-05" d="-0.004974365234375" tx="368.8" ty="204.95"/>
+                        </matrix>
+                        <GradientEntry color="#FDEA86" ratio="0"/>
+                        <GradientEntry color="#FCFC7F" alpha="0" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!8984 4179|5765 4105!5765 4105|5768 4016!5768 4016|8988 4068!8988 4068|8984 4179"/>
+                    <Edge cubics="!5768 4016(5768,4016;5799,4017 8988,4068 8988,4068p5768 4016 8988 4068)8988,4068;"/>
+                    <Edge cubics="!8988 4068(;8988,4068 8984,4179 8984,4179p8988 4068 8984 4179);"/>
+                    <Edge cubics="!8984 4179(;8984,4179 5765,4105 5765,4105p8984 4179 5765 4105);"/>
+                    <Edge cubics="!5765 4105(;5765,4105 5768,4016 5768,4016p5765 4105 5768 4016);"/>
+                  </edges>
+                </DOMShape>
+                <DOMSymbolInstance libraryItemName="Tween 1asdfasdf" symbolType="graphic" centerPoint3DX="12.4" centerPoint3DY="14.05" loop="loop">
+                  <matrix>
+                    <Matrix a="0.233749389648438" b="0.0574798583984375" c="-0.0574798583984375" d="0.233749389648438" tx="12.4" ty="14.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix a="0.6846923828125" b="0.168365478515625" c="-0.168365478515625" d="0.6846923828125" tx="-126.25" ty="-167.5"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="-0.020111083984375" b="-0.006744384765625" c="0.0034942626953125" d="-0.010406494140625" tx="303.1" ty="218.85"/>
+                        </matrix>
+                        <GradientEntry color="#FDEA86" ratio="0"/>
+                        <GradientEntry color="#FCFC7F" alpha="0" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!6356 4556|6408 4323!6408 4323|5753 4196!5753 4196|5712 4377!5712 4377|6356 4556"/>
+                    <Edge cubics="!6356 4556(;6356,4556 6408,4323 6408,4323p6356 4556 6408 4323);"/>
+                    <Edge cubics="!6408 4323(;6408,4323 5753,4196 5753,4196p6408 4323 5753 4196);"/>
+                    <Edge cubics="!5753 4196(;5753,4196 5712,4377 5712,4377p5753 4196 5712 4377);"/>
+                    <Edge cubics="!5712 4377(;5712,4377 6356,4556 6356,4556p5712 4377 6356 4556);"/>
+                  </edges>
+                </DOMShape>
+                <DOMSymbolInstance libraryItemName="Tween 36" symbolType="graphic" centerPoint3DX="26.5" centerPoint3DY="23.2" loop="loop">
+                  <matrix>
+                    <Matrix a="0.34759521484375" b="0.085479736328125" c="-0.085479736328125" d="0.34759521484375" tx="26.5" ty="23.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix a="0.599349975585938" b="0.147384643554688" c="-0.147384643554688" d="0.599349975585938" tx="72.1" ty="68.2"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="-0.0887908935546875" b="-0.041015625" c="0.0191497802734375" d="-0.041473388671875"/>
+                        </matrix>
+                        <GradientEntry color="#FDEA86" ratio="0"/>
+                        <GradientEntry color="#FCFC7F" alpha="0" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!-1578 -749|1605 496!1605 496|1504 750!1504 750|-1604 -689!-1604 -689|-1578 -749"/>
+                    <Edge cubics="!-1578 -749(-1578,-749;-1578,-749 1605,496 1605,496p-1578 -749 1605 496);"/>
+                    <Edge cubics="!1605 496(;1605,496 1504,750 1504,750p1605 496 1504 750)1504,750;"/>
+                    <Edge cubics="!1504 750(;1504,750 -1604,-689 -1604,-689p1504 750 -1604 -689);"/>
+                    <Edge cubics="!-1604 -689(;-1604,-689 -1578,-749 -1578,-749p-1604 -689 -1578 -749);"/>
+                  </edges>
+                </DOMShape>
+                <DOMSymbolInstance libraryItemName="Tween 35" centerPoint3DX="7.25" centerPoint3DY="19.2">
+                  <matrix>
+                    <Matrix a="0.2996826171875" b="0.073699951171875" c="-0.0736846923828125" d="0.2996826171875" tx="7.25" ty="19.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix a="0.6846923828125" b="0.168365478515625" c="-0.168365478515625" d="0.6846923828125" tx="-126.15" ty="-167.5"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="-0.0341339111328125" b="-0.0237579345703125" c="0.0175323486328125" d="-0.0251922607421875" tx="309.35" ty="258.05"/>
+                        </matrix>
+                        <GradientEntry color="#FDEA86" ratio="0"/>
+                        <GradientEntry color="#FCFC7F" alpha="0" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!6868 5413|5571 4655!5571 4655|5503 4792!5503 4792|6698 5662!6698 5662|6868 5413"/>
+                    <Edge cubics="!6698 5662(;6698,5662 6868,5413 6868,5413p6698 5662 6868 5413);"/>
+                    <Edge cubics="!6868 5413(;6868,5413 5571,4655 5571,4655p6868 5413 5571 4655);"/>
+                    <Edge cubics="!5571 4655(;5571,4655 5503,4792 5503,4792p5571 4655 5503 4792);"/>
+                    <Edge cubics="!5503 4792(;5503,4792 6698,5662 6698,5662p5503 4792 6698 5662);"/>
+                  </edges>
+                </DOMShape>
+                <DOMSymbolInstance libraryItemName="Tween 34" centerPoint3DX="11.2" centerPoint3DY="26.85">
+                  <matrix>
+                    <Matrix a="0.425537109375" b="0.104644775390625" c="-0.104644775390625" d="0.425537109375" tx="11.2" ty="26.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix a="0.6846923828125" b="0.168365478515625" c="-0.168365478515625" d="0.6846923828125" tx="-126.2" ty="-167.5"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="-0.0357818603515625" b="-0.03857421875" c="0.02923583984375" d="-0.027130126953125" tx="301.55" ty="279.3"/>
+                        </matrix>
+                        <GradientEntry color="#FDEA86" ratio="0"/>
+                        <GradientEntry color="#FCFC7F" alpha="0" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!6560 6239|5352 4978!5352 4978|5352 4930!5352 4930|5401 4930!5401 4930|6708 6084!6708 6084|6560 6239"/>
+                    <Edge cubics="!5401 4930(;5401,4930 6708,6084 6708,6084p5401 4930 6708 6084);"/>
+                    <Edge cubics="!6708 6084(;6708,6084 6560,6239 6560,6239p6708 6084 6560 6239);"/>
+                    <Edge cubics="!6560 6239(;6560,6239 5352,4978 5352,4978p6560 6239 5352 4978);"/>
+                    <Edge cubics="!5352 4978(;5352,4978 5352,4930 5352,4930p5352 4978 5352 4930);"/>
+                    <Edge cubics="!5352 4930(;5352,4930 5401,4930 5401,4930p5352 4930 5401 4930);"/>
+                  </edges>
+                </DOMShape>
+                <DOMSymbolInstance libraryItemName="Tween 33" symbolType="graphic" centerPoint3DX="4.6" centerPoint3DY="27.95" loop="loop">
+                  <matrix>
+                    <Matrix a="0.425537109375" b="0.104644775390625" c="-0.104644775390625" d="0.425537109375" tx="4.6" ty="27.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix a="0.6846923828125" b="0.168365478515625" c="-0.168365478515625" d="0.6846923828125" tx="-126.2" ty="-167.5"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="-0.0501708984375" b="-0.0777130126953125" c="0.065093994140625" d="-0.042022705078125" tx="304.8" ty="317.6"/>
+                        </matrix>
+                        <GradientEntry color="#FDEA86" ratio="0"/>
+                        <GradientEntry color="#FCFC7F" alpha="0" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!6818 7623|5181 5113!5181 5113|5228 5080!5228 5080|7011 7482!7011 7482|6818 7623"/>
+                    <Edge cubics="!5228 5080(5228,5080;5228,5080 7011,7482 7011,7482p5228 5080 7011 7482)7011,7482;"/>
+                    <Edge cubics="!7011 7482(7011,7482;7011,7482 6818,7623 6818,7623p7011 7482 6818 7623)6818,7623;"/>
+                    <Edge cubics="!6818 7623(6818,7623;6818,7623 5181,5113 5181,5113p6818 7623 5181 5113)5181,5113;"/>
+                    <Edge cubics="!5181 5113(5181,5113;5181,5113 5228,5080 5228,5080p5181 5113 5228 5080);"/>
+                  </edges>
+                </DOMShape>
+                <DOMSymbolInstance libraryItemName="Tween 32" symbolType="graphic" centerPoint3DX="-0.15" centerPoint3DY="23.5" loop="loop">
+                  <matrix>
+                    <Matrix a="0.317657470703125" b="0.0781097412109375" c="-0.0781097412109375" d="0.317657470703125" tx="-0.15" ty="23.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix a="0.6846923828125" b="0.168365478515625" c="-0.168365478515625" d="0.6846923828125" tx="-126.2" ty="-167.55"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="-0.0245208740234375" b="-0.0611572265625" c="0.06024169921875" d="-0.0241241455078125" tx="267.95" ty="314"/>
+                        </matrix>
+                        <GradientEntry color="#FDEA86" ratio="0"/>
+                        <GradientEntry color="#FCFC7F" alpha="0" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!5626 7343|4829 5259!4829 5259|5009 5214!5009 5214|5892 7143!5892 7143|5626 7343"/>
+                    <Edge cubics="!5009 5214(;5009,5214 5892,7143 5892,7143p5009 5214 5892 7143);"/>
+                    <Edge cubics="!5892 7143(;5892,7143 5626,7343 5626,7343p5892 7143 5626 7343);"/>
+                    <Edge cubics="!5626 7343(;5626,7343 4829,5259 4829,5259p5626 7343 4829 5259);"/>
+                    <Edge cubics="!4829 5259(;4829,5259 5009,5214 5009,5214p4829 5259 5009 5214);"/>
+                  </edges>
+                </DOMShape>
+                <DOMSymbolInstance libraryItemName="Tween 31" symbolType="graphic" centerPoint3DX="-4.5" centerPoint3DY="33.2" loop="loop">
+                  <matrix>
+                    <Matrix a="0.317657470703125" b="0.0781097412109375" c="-0.0781097412109375" d="0.317657470703125" tx="-4.5" ty="33.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix a="0.6846923828125" b="0.168365478515625" c="-0.168365478515625" d="0.6846923828125" tx="-126.25" ty="-167.55"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="-0.00506591796875" b="-0.0457916259765625" c="0.0458221435546875" d="-0.00506591796875" tx="242.6" ty="301.5"/>
+                        </matrix>
+                        <GradientEntry color="#FDEA86" ratio="0"/>
+                        <GradientEntry color="#FCFC7F" alpha="0" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!4605 5321|4804 6785!4804 6785|5101 6735!5101 6735|4751 5274!4751 5274|4605 5321"/>
+                    <Edge cubics="!4804 6785(;4804,6785 5101,6735 5101,6735p4804 6785 5101 6735);"/>
+                    <Edge cubics="!5101 6735(;5101,6735 4751,5274 4751,5274p5101 6735 4751 5274);"/>
+                    <Edge cubics="!4751 5274(;4751,5274 4605,5321 4605,5321p4751 5274 4605 5321);"/>
+                    <Edge cubics="!4605 5321(;4605,5321 4804,6785 4804,6785p4605 5321 4804 6785);"/>
+                  </edges>
+                </DOMShape>
+                <DOMSymbolInstance libraryItemName="Tween 30" symbolType="graphic" centerPoint3DX="-8.8" centerPoint3DY="35.1" loop="loop">
+                  <matrix>
+                    <Matrix a="0.419540405273438" b="0.1031494140625" c="-0.1031494140625" d="0.419540405273438" tx="-8.8" ty="35.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix a="0.599349975585938" b="0.147384643554688" c="-0.147384643554688" d="0.599349975585938" tx="-8.05" ty="6.7"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="-0.0027923583984375" b="-0.0905609130859375" c="0.0880126953125" d="-0.002777099609375" tx="5.15" ty="150.25"/>
+                        </matrix>
+                        <GradientEntry color="#FDEA86" ratio="0"/>
+                        <GradientEntry color="#FCFC7F" alpha="0" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!221 4388|-50 4388!-50 4388|-55 1502!-55 1502|3 1502!3 1502|221 4388"/>
+                    <Edge cubics="!3 1502(;3,1502 221,4388 221,4388p3 1502 221 4388);"/>
+                    <Edge cubics="!221 4388(;221,4388 -50,4388 -50,4388p221 4388 -50 4388);"/>
+                    <Edge cubics="!-50 4388(;-50,4388 -55,1502 -55,1502p-50 4388 -55 1502);"/>
+                    <Edge cubics="!-55 1502(;-55,1502 3,1502 3,1502p-55 1502 3 1502);"/>
+                  </edges>
+                </DOMShape>
+                <DOMSymbolInstance libraryItemName="Tween 29" symbolType="graphic" centerPoint3DX="-14.05" centerPoint3DY="28.9" loop="loop">
+                  <matrix>
+                    <Matrix a="0.317657470703125" b="0.0781097412109375" c="-0.0781097412109375" d="0.317657470703125" tx="-14.05" ty="28.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix a="0.599349975585938" b="0.147384643554688" c="-0.147384643554688" d="0.599349975585938" tx="-8.05" ty="6.7"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="0.01519775390625" b="-0.0618133544921875" c="0.0616302490234375" d="0.0151519775390625" tx="-23.9" ty="126.3"/>
+                        </matrix>
+                        <GradientEntry color="#FDEA86" ratio="0"/>
+                        <GradientEntry color="#FCFC7F" alpha="0" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!-344 1486|-773 3489!-773 3489|-432 3567!-432 3567|-180 1513!-180 1513|-344 1486"/>
+                    <Edge cubics="!-344 1486(-344,1486;-344,1486 -773,3489 -773,3489p-344 1486 -773 3489);"/>
+                    <Edge cubics="!-773 3489(;-773,3489 -432,3567 -432,3567p-773 3489 -432 3567)-432,3567;"/>
+                    <Edge cubics="!-432 3567(-432,3567;-432,3567 -180,1513 -180,1513p-432 3567 -180 1513);"/>
+                    <Edge cubics="!-180 1513(-180,1513;-180,1513 -344,1486 -344,1486p-180 1513 -344 1486);"/>
+                  </edges>
+                </DOMShape>
+                <DOMSymbolInstance libraryItemName="Tween 28" symbolType="graphic" centerPoint3DX="-18.75" centerPoint3DY="29.7" loop="loop">
+                  <matrix>
+                    <Matrix a="0.389572143554688" b="0.095794677734375" c="-0.095794677734375" d="0.389572143554688" tx="-18.7" ty="29.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix a="0.599349975585938" b="0.147384643554688" c="-0.147384643554688" d="0.599349975585938" tx="-8.05" ty="6.7"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="0.0245361328125" b="-0.05621337890625" c="0.050933837890625" d="0.022216796875" tx="-50.2" ty="113.95"/>
+                        </matrix>
+                        <GradientEntry color="#FDEA86" ratio="0"/>
+                        <GradientEntry color="#FCFC7F" alpha="0" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!-530 1440|-1095 3191!-1095 3191|-1475 3031!-1475 3031|-691 1368!-691 1368|-530 1440"/>
+                    <Edge cubics="!-691 1368(;-691,1368 -530,1440 -530,1440p-691 1368 -530 1440);"/>
+                    <Edge cubics="!-530 1440(;-530,1440 -1095,3191 -1095,3191p-530 1440 -1095 3191);"/>
+                    <Edge cubics="!-1095 3191(;-1095,3191 -1475,3031 -1475,3031p-1095 3191 -1475 3031);"/>
+                    <Edge cubics="!-1475 3031(;-1475,3031 -691,1368 -691,1368p-1475 3031 -691 1368);"/>
+                  </edges>
+                </DOMShape>
+                <DOMSymbolInstance libraryItemName="Tween 27" symbolType="graphic" centerPoint3DX="-27.85" centerPoint3DY="31.55" loop="loop">
+                  <matrix>
+                    <Matrix a="0.323638916015625" b="0.07958984375" c="-0.07958984375" d="0.323638916015625" tx="-27.85" ty="31.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix a="0.599349975585938" b="0.147384643554688" c="-0.147384643554688" d="0.599349975585938" tx="-8.05" ty="6.7"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="0.066986083984375" b="-0.0748291015625" c="0.05718994140625" d="0.0511932373046875" tx="-110.8" ty="113.9"/>
+                        </matrix>
+                        <GradientEntry color="#FDEA86" ratio="0"/>
+                        <GradientEntry color="#FCFC7F" alpha="0" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!-1138 1019|-3428 3293!-3428 3293|-3199 3538!-3199 3538|-1003 1155!-1003 1155|-1138 1019"/>
+                    <Edge cubics="!-3428 3293(;-3428,3293 -3199,3538 -3199,3538p-3428 3293 -3199 3538);"/>
+                    <Edge cubics="!-3199 3538(;-3199,3538 -1003,1155 -1003,1155p-3199 3538 -1003 1155);"/>
+                    <Edge cubics="!-1003 1155(;-1003,1155 -1138,1019 -1138,1019p-1003 1155 -1138 1019);"/>
+                    <Edge cubics="!-1138 1019(;-1138,1019 -3428,3293 -3428,3293p-1138 1019 -3428 3293);"/>
+                  </edges>
+                </DOMShape>
+                <DOMSymbolInstance libraryItemName="Tween 26" symbolType="graphic" centerPoint3DX="-27.95" centerPoint3DY="18.3" loop="loop">
+                  <matrix>
+                    <Matrix a="0.28765869140625" b="0.07073974609375" c="-0.07073974609375" d="0.28765869140625" tx="-27.95" ty="18.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix a="0.599349975585938" b="0.147384643554688" c="-0.147384643554688" d="0.599349975585938" tx="-8.05" ty="6.7"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="0.119781494140625" b="-0.084075927734375" c="0.0486297607421875" d="0.0692901611328125" tx="-156.95" ty="111"/>
+                        </matrix>
+                        <GradientEntry color="#FDEA86" ratio="0"/>
+                        <GradientEntry color="#FCFC7F" alpha="0" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!-1280 831|-5034 3500!-5034 3500|-4967 3609!-4967 3609|-1244 885!-1244 885|-1280 831"/>
+                    <Edge cubics="!-5034 3500(;-5034,3500 -4967,3609 -4967,3609p-5034 3500 -4967 3609);"/>
+                    <Edge cubics="!-4967 3609(;-4967,3609 -1244,885 -1244,885p-4967 3609 -1244 885);"/>
+                    <Edge cubics="!-1244 885(;-1244,885 -1280,831 -1280,831p-1244 885 -1280 831);"/>
+                    <Edge cubics="!-1280 831(;-1280,831 -5034,3500 -5034,3500p-1280 831 -5034 3500);"/>
+                  </edges>
+                </DOMShape>
+                <DOMSymbolInstance libraryItemName="Tween 25" symbolType="graphic" centerPoint3DX="-27" centerPoint3DY="11.55" loop="loop">
+                  <matrix>
+                    <Matrix a="0.233749389648438" b="0.0574798583984375" c="-0.0574798583984375" d="0.233749389648438" tx="-27" ty="11.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix a="0.599349975585938" b="0.147384643554688" c="-0.147384643554688" d="0.599349975585938" tx="-8.05" ty="6.7"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="0.0220184326171875" b="-0.0105438232421875" c="0.006561279296875" d="0.0137176513671875" tx="-88.45" ty="36.35"/>
+                        </matrix>
+                        <GradientEntry color="#FDEA86" ratio="0"/>
+                        <GradientEntry color="#FCFC7F" alpha="0" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!-1446 478|-2169 725!-2169 725|-2067 977!-2067 977|-1368 674!-1368 674|-1446 478"/>
+                    <Edge cubics="!-2169 725(;-2169,725 -2067,977 -2067,977p-2169 725 -2067 977);"/>
+                    <Edge cubics="!-2067 977(;-2067,977 -1368,674 -1368,674p-2067 977 -1368 674);"/>
+                    <Edge cubics="!-1368 674(;-1368,674 -1446,478 -1446,478p-1368 674 -1446 478);"/>
+                    <Edge cubics="!-1446 478(;-1446,478 -2169,725 -2169,725p-1446 478 -2169 725);"/>
+                  </edges>
+                </DOMShape>
+                <DOMSymbolInstance libraryItemName="Tween 24" symbolType="graphic" centerPoint3DX="-47.25" centerPoint3DY="12.5" loop="loop">
+                  <matrix>
+                    <Matrix a="0.359588623046875" b="0.0884246826171875" c="-0.0884246826171875" d="0.359588623046875" tx="-47.25" ty="12.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix a="0.599349975585938" b="0.147384643554688" c="-0.147384643554688" d="0.599349975585938" tx="-8.05" ty="6.7"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="0.0980377197265625" b="-0.020416259765625" c="0.004974365234375" d="0.0238494873046875" tx="-150.75" ty="31.6"/>
+                        </matrix>
+                        <GradientEntry color="#FDEA86" ratio="0"/>
+                        <GradientEntry color="#FCFC7F" alpha="0" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!-1502 233|-4538 836!-4538 836|-4496 1032!-4496 1032|-1491 294!-1491 294|-1502 233"/>
+                    <Edge cubics="!-4538 836(;-4538,836 -4496,1032 -4496,1032p-4538 836 -4496 1032);"/>
+                    <Edge cubics="!-4496 1032(;-4496,1032 -1491,294 -1491,294p-4496 1032 -1491 294);"/>
+                    <Edge cubics="!-1491 294(;-1491,294 -1502,233 -1502,233p-1491 294 -1502 233);"/>
+                    <Edge cubics="!-1502 233(;-1502,233 -4538,836 -4538,836p-1502 233 -4538 836);"/>
+                  </edges>
+                </DOMShape>
+                <DOMSymbolInstance libraryItemName="Tween 23" symbolType="graphic" centerPoint3DX="-32.35" centerPoint3DY="3.65" loop="loop">
+                  <matrix>
+                    <Matrix a="0.27569580078125" b="0.0677947998046875" c="-0.0677947998046875" d="0.27569580078125" tx="-32.35" ty="3.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix a="0.599349975585938" b="0.147384643554688" c="-0.147384643554688" d="0.599349975585938" tx="-8.05" ty="6.7"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="0.0522613525390625" d="0.010498046875" tx="-117.4" ty="3.7"/>
+                        </matrix>
+                        <GradientEntry color="#FDEA86" ratio="0"/>
+                        <GradientEntry color="#FCFC7F" alpha="0" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!-3204 -98|-3204 246!-3204 246|-1491 124!-1491 124|-1517 -49!-1517 -49|-3204 -98"/>
+                    <Edge cubics="!-3204 -98(;-3204,-98 -3204,246 -3204,246p-3204 -98 -3204 246);"/>
+                    <Edge cubics="!-3204 246(;-3204,246 -1491,124 -1491,124p-3204 246 -1491 124);"/>
+                    <Edge cubics="!-1491 124(;-1491,124 -1517,-49 -1517,-49p-1491 124 -1517 -49);"/>
+                    <Edge cubics="!-1517 -49(;-1517,-49 -3204,-98 -3204,-98p-1517 -49 -3204 -98);"/>
+                  </edges>
+                </DOMShape>
+                <DOMSymbolInstance libraryItemName="Tween 22" symbolType="graphic" centerPoint3DX="-40.8" centerPoint3DY="-0.65" loop="loop">
+                  <matrix>
+                    <Matrix a="0.28167724609375" b="0.0692596435546875" c="-0.0692596435546875" d="0.28167724609375" tx="-40.8" ty="-0.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix a="0.6846923828125" b="0.168365478515625" c="-0.168365478515625" d="0.6846923828125" tx="-126.15" ty="-167.55"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="0.0782623291015625" b="0.0135040283203125" c="-0.002685546875" d="0.015533447265625" tx="92.05" ty="175.35"/>
+                        </matrix>
+                        <GradientEntry color="#FDEA86" ratio="0"/>
+                        <GradientEntry color="#FCFC7F" alpha="0" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!539 3363|3129 3766!3129 3766|3143 3700!3143 3700|584 3249!584 3249|539 3363"/>
+                    <Edge cubics="!584 3249(;584,3249 539,3363 539,3363p584 3249 539 3363);"/>
+                    <Edge cubics="!539 3363(;539,3363 3129,3766 3129,3766p539 3363 3129 3766);"/>
+                    <Edge cubics="!3129 3766(;3129,3766 3143,3700 3143,3700p3129 3766 3143 3700);"/>
+                    <Edge cubics="!3143 3700(;3143,3700 584,3249 584,3249p3143 3700 584 3249);"/>
+                  </edges>
+                </DOMShape>
+                <DOMSymbolInstance libraryItemName="Tween 21" symbolType="graphic" centerPoint3DX="-25.35" centerPoint3DY="-3.3" loop="loop">
+                  <matrix>
+                    <Matrix a="0.353607177734375" b="0.0869598388671875" c="-0.0869598388671875" d="0.353607177734375" tx="-25.35" ty="-3.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix a="0.6846923828125" b="0.168365478515625" c="-0.168365478515625" d="0.6846923828125" tx="-126.2" ty="-167.55"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="0.098968505859375" b="0.040557861328125" c="-0.0162353515625" d="0.0395965576171875" tx="80.9" ty="140.2"/>
+                        </matrix>
+                        <GradientEntry color="#FDEA86" ratio="0"/>
+                        <GradientEntry color="#FCFC7F" alpha="0" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!52 2102|3237 3433!3237 3433|3205 3506!3205 3506|0 2184!0 2184|52 2102"/>
+                    <Edge cubics="!0 2184(;0,2184 52,2102 52,2102p0 2184 52 2102);"/>
+                    <Edge cubics="!52 2102(;52,2102 3237,3433 3237,3433p52 2102 3237 3433);"/>
+                    <Edge cubics="!3237 3433(;3237,3433 3205,3506 3205,3506p3237 3433 3205 3506);"/>
+                    <Edge cubics="!3205 3506(;3205,3506 0,2184 0,2184p3205 3506 0 2184);"/>
+                  </edges>
+                </DOMShape>
+                <DOMSymbolInstance libraryItemName="Tween 20" symbolType="graphic" centerPoint3DX="-23.85" centerPoint3DY="-6.25" loop="loop">
+                  <matrix>
+                    <Matrix a="0.263702392578125" b="0.064849853515625" c="-0.064849853515625" d="0.263702392578125" tx="-23.85" ty="-6.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix a="0.6846923828125" b="0.168365478515625" c="-0.168365478515625" d="0.6846923828125" tx="-126.15" ty="-167.55"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="0.0486907958984375" b="0.0290679931640625" c="-0.0175323486328125" d="0.029388427734375" tx="127.6" ty="136.75"/>
+                        </matrix>
+                        <GradientEntry color="#FDEA86" ratio="0"/>
+                        <GradientEntry color="#FCFC7F" alpha="0" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!3314 3297|1738 2344!1738 2344|1849 2174!1849 2174|3365 3222!3365 3222|3314 3297"/>
+                    <Edge cubics="!1738 2344(;1738,2344 1849,2174 1849,2174p1738 2344 1849 2174);"/>
+                    <Edge cubics="!1849 2174(;1849,2174 3365,3222 3365,3222p1849 2174 3365 3222);"/>
+                    <Edge cubics="!3365 3222(;3365,3222 3314,3297 3314,3297p3365 3222 3314 3297);"/>
+                    <Edge cubics="!3314 3297(;3314,3297 1738,2344 1738,2344p3314 3297 1738 2344);"/>
+                  </edges>
+                </DOMShape>
+                <DOMSymbolInstance libraryItemName="Tween 19" symbolType="graphic" centerPoint3DX="-25.1" centerPoint3DY="-13.5" loop="loop">
+                  <matrix>
+                    <Matrix a="0.37158203125" b="0.0913848876953125" c="-0.0913848876953125" d="0.37158203125" tx="-25.05" ty="-13.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix a="0.6846923828125" b="0.168365478515625" c="-0.168365478515625" d="0.6846923828125" tx="-126.15" ty="-167.45"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="0.0541229248046875" b="0.0529937744140625" c="-0.0379180908203125" d="0.038726806640625" tx="130.25" ty="110"/>
+                        </matrix>
+                        <GradientEntry color="#FDEA86" ratio="0"/>
+                        <GradientEntry color="#FCFC7F" alpha="0" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!3476 3091|1650 1401!1650 1401|1724 1312!1724 1312|3557 3012!3557 3012|3476 3091"/>
+                    <Edge cubics="!1650 1401(;1650,1401 1724,1312 1724,1312p1650 1401 1724 1312);"/>
+                    <Edge cubics="!1724 1312(;1724,1312 3557,3012 3557,3012p1724 1312 3557 3012);"/>
+                    <Edge cubics="!3557 3012(;3557,3012 3476,3091 3476,3091p3557 3012 3476 3091);"/>
+                    <Edge cubics="!3476 3091(;3476,3091 1650,1401 1650,1401p3476 3091 1650 1401);"/>
+                  </edges>
+                </DOMShape>
+                <DOMSymbolInstance libraryItemName="Tween 17" symbolType="graphic" centerPoint3DX="-17.65" centerPoint3DY="-12.55" loop="loop">
+                  <matrix>
+                    <Matrix a="0.329635620117188" b="0.0810546875" c="-0.0810546875" d="0.329635620117188" tx="-17.65" ty="-12.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix a="0.6846923828125" b="0.168365478515625" c="-0.168365478515625" d="0.6846923828125" tx="-126.25" ty="-167.5"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="0.050445556640625" b="0.0691375732421875" c="-0.0552520751953125" d="0.040313720703125" tx="143.3" ty="89.7"/>
+                        </matrix>
+                        <GradientEntry color="#FDEA86" ratio="0"/>
+                        <GradientEntry color="#FCFC7F" alpha="0" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!3677 2918|1991 673!1991 673|2243 708!2243 708|3738 2878!3738 2878|3677 2918"/>
+                    <Edge cubics="!1991 673(;1991,673 2243,708 2243,708p1991 673 2243 708);"/>
+                    <Edge cubics="!2243 708(;2243,708 3738,2878 3738,2878p2243 708 3738 2878);"/>
+                    <Edge cubics="!3738 2878(;3738,2878 3677,2918 3677,2918p3738 2878 3677 2918);"/>
+                    <Edge cubics="!3677 2918(;3677,2918 1991,673 1991,673p3677 2918 1991 673);"/>
+                  </edges>
+                </DOMShape>
+                <DOMSymbolInstance libraryItemName="Tween 16" symbolType="graphic" centerPoint3DX="-14.4" centerPoint3DY="-15.75" loop="loop">
+                  <matrix>
+                    <Matrix a="0.293670654296875" b="0.0722198486328125" c="-0.0722198486328125" d="0.293670654296875" tx="-14.4" ty="-15.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix a="0.6846923828125" b="0.168365478515625" c="-0.168365478515625" d="0.6846923828125" tx="-126.25" ty="-167.5"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="0.0362548828125" b="0.0849609375" c="-0.078704833984375" d="0.0335540771484375" tx="168.65" ty="70.2"/>
+                        </matrix>
+                        <GradientEntry color="#FDEA86" ratio="0"/>
+                        <GradientEntry color="#FCFC7F" alpha="0" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!3934 2807|2773 0!2773 0|2887 0!2887 0|3971 2764!3971 2764|3934 2807"/>
+                    <Edge cubics="!2773 0(;2773,0 2887,0 2887,0p2773 0 2887 0);"/>
+                    <Edge cubics="!2887 0(;2887,0 3971,2764 3971,2764p2887 0 3971 2764);"/>
+                    <Edge cubics="!3971 2764(;3971,2764 3934,2807 3934,2807p3971 2764 3934 2807);"/>
+                    <Edge cubics="!3934 2807(;3934,2807 2773,0 2773,0p3934 2807 2773 0);"/>
+                  </edges>
+                </DOMShape>
+                <DOMSymbolInstance libraryItemName="Tween 15" symbolType="graphic" centerPoint3DX="-11.1" centerPoint3DY="-16.65" loop="loop">
+                  <matrix>
+                    <Matrix a="0.257720947265625" b="0.0633697509765625" c="-0.0633697509765625" d="0.257720947265625" tx="-11.1" ty="-16.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix a="0.6846923828125" b="0.168365478515625" c="-0.168365478515625" d="0.6846923828125" tx="-126.15" ty="-167.55"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="0.0143890380859375" b="0.0634918212890625" c="-0.0615692138671875" d="0.0139617919921875" tx="196.8" ty="83.95"/>
+                        </matrix>
+                        <GradientEntry color="#FDEA86" ratio="0"/>
+                        <GradientEntry color="#FCFC7F" alpha="0" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!3893 644|4253 2692!4253 2692|4139 2714!4139 2714|3619 644!3619 644|3893 644"/>
+                    <Edge cubics="!3619 644(;3619,644 3893,644 3893,644p3619 644 3893 644);"/>
+                    <Edge cubics="!3893 644(;3893,644 4253,2692 4253,2692p3893 644 4253 2692);"/>
+                    <Edge cubics="!4253 2692(;4253,2692 4139,2714 4139,2714p4253 2692 4139 2714);"/>
+                    <Edge cubics="!4139 2714(;4139,2714 3619,644 3619,644p4139 2714 3619 644);"/>
+                  </edges>
+                </DOMShape>
+                <DOMSymbolInstance libraryItemName="Tween 14" symbolType="graphic" centerPoint3DX="-6" centerPoint3DY="-15.35" loop="loop">
+                  <matrix>
+                    <Matrix a="0.389572143554688" b="0.095794677734375" c="-0.095794677734375" d="0.389572143554688" tx="-6" ty="-15.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix a="0.6846923828125" b="0.168365478515625" c="-0.168365478515625" d="0.6846923828125" tx="-126.2" ty="-167.55"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="0.0008392333984375" b="0.0563812255859375" c="-0.0561981201171875" d="0.0007781982421875" tx="220.95" ty="87.95"/>
+                        </matrix>
+                        <GradientEntry color="#FDEA86" ratio="0"/>
+                        <GradientEntry color="#FCFC7F" alpha="0" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!4521 838|4491 2680!4491 2680|4400 2679!4400 2679|4318 840!4318 840|4521 838"/>
+                    <Edge cubics="!4318 840(;4318,840 4521,838 4521,838p4318 840 4521 838);"/>
+                    <Edge cubics="!4521 838(;4521,838 4491,2680 4491,2680p4521 838 4491 2680);"/>
+                    <Edge cubics="!4491 2680(;4491,2680 4400,2679 4400,2679p4491 2680 4400 2679);"/>
+                    <Edge cubics="!4400 2679(;4400,2679 4318,840 4318,840p4400 2679 4318 840);"/>
+                  </edges>
+                </DOMShape>
+                <DOMSymbolInstance libraryItemName="Tween 13asdfasdf" symbolType="graphic" centerPoint3DX="-1.45" centerPoint3DY="-17.1" loop="loop">
+                  <matrix>
+                    <Matrix a="0.389572143554688" b="0.095794677734375" c="-0.095794677734375" d="0.389572143554688" tx="-1.45" ty="-17.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix a="0.6846923828125" b="0.168365478515625" c="-0.168365478515625" d="0.6846923828125" tx="-126.25" ty="-167.55"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="-0.0159759521484375" b="0.0858612060546875" c="-0.0813751220703125" d="-0.015167236328125" tx="248.2" ty="67.8"/>
+                        </matrix>
+                        <GradientEntry color="#FDEA86" ratio="0"/>
+                        <GradientEntry color="#FCFC7F" alpha="0" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!4970 0|4622 2693!4622 2693|4736 2714!4736 2714|5303 0!5303 0|4970 0"/>
+                    <Edge cubics="!4970 0(4970,0;4970,0 4622,2693 4622,2693p4970 0 4622 2693)4622,2693;"/>
+                    <Edge cubics="!4622 2693(;4622,2693 4736,2714 4736,2714p4622 2693 4736 2714);"/>
+                    <Edge cubics="!4736 2714(;4736,2714 5303,0 5303,0p4736 2714 5303 0);"/>
+                    <Edge cubics="!5303 0(;5303,0 4970,0 4970,0p5303 0 4970 0);"/>
+                  </edges>
+                </DOMShape>
+                <DOMSymbolInstance libraryItemName="Tween 11asdfasdf" centerPoint3DX="3.15" centerPoint3DY="-15.25">
+                  <matrix>
+                    <Matrix a="0.257720947265625" b="0.0633697509765625" c="-0.0633697509765625" d="0.257720947265625" tx="3.15" ty="-15.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix a="0.6846923828125" b="0.168365478515625" c="-0.168365478515625" d="0.6846923828125" tx="-126.2" ty="-167.5"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="-0.03448486328125" b="0.0896453857421875" c="-0.079864501953125" d="-0.0307159423828125" tx="279.1" ty="70.15"/>
+                        </matrix>
+                        <GradientEntry color="#FDEA86" ratio="0"/>
+                        <GradientEntry color="#FCFC7F" alpha="0" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!6102 0|4963 2787!4963 2787|5006 2807!5006 2807|6198 0!6198 0|6102 0"/>
+                    <Edge cubics="!6102 0(;6102,0 4963,2787 4963,2787p6102 0 4963 2787);"/>
+                    <Edge cubics="!4963 2787(;4963,2787 5006,2807 5006,2807p4963 2787 5006 2807);"/>
+                    <Edge cubics="!5006 2807(;5006,2807 6198,0 6198,0p5006 2807 6198 0);"/>
+                    <Edge cubics="!6198 0(;6198,0 6102,0 6102,0p6198 0 6102 0);"/>
+                  </edges>
+                </DOMShape>
+                <DOMSymbolInstance libraryItemName="Tween 9asdfasdf" symbolType="graphic" centerPoint3DX="5.55" centerPoint3DY="-8.5" loop="loop">
+                  <matrix>
+                    <Matrix a="0.28765869140625" b="0.07073974609375" c="-0.07073974609375" d="0.28765869140625" tx="5.55" ty="-8.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix a="0.599349975585938" b="0.147384643554688" c="-0.147384643554688" d="0.599349975585938" tx="-7.9" ty="7.05"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="-0.058074951171875" b="0.0883026123046875" c="-0.073760986328125" d="-0.048492431640625" tx="94.05" ty="-134.6"/>
+                        </matrix>
+                        <GradientEntry color="#FDEA86" ratio="0"/>
+                        <GradientEntry color="#FCFC7F" alpha="0" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!2931 -3990|886 -1243!886 -1243|832 -1280!832 -1280|2703 -4140!2703 -4140|2931 -3990"/>
+                    <Edge cubics="!832 -1280(;832,-1280 2703,-4140 2703,-4140p832 -1280 2703 -4140);"/>
+                    <Edge cubics="!2703 -4140(;2703,-4140 2931,-3990 2931,-3990p2703 -4140 2931 -3990);"/>
+                    <Edge cubics="!2931 -3990(;2931,-3990 886,-1243 886,-1243p2931 -3990 886 -1243);"/>
+                    <Edge cubics="!886 -1243(;886,-1243 832,-1280 832,-1280p886 -1243 832 -1280);"/>
+                  </edges>
+                </DOMShape>
+                <DOMSymbolInstance libraryItemName="Tween 8asdfasdf" symbolType="graphic" centerPoint3DX="10.1" centerPoint3DY="-9.2" loop="loop">
+                  <matrix>
+                    <Matrix a="0.227752685546875" b="0.055999755859375" c="-0.055999755859375" d="0.227752685546875" tx="10.1" ty="-9.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix a="0.6846923828125" b="0.168365478515625" c="-0.168365478515625" d="0.6846923828125" tx="-126.2" ty="-167.5"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="-0.0146331787109375" b="0.0124359130859375" c="-0.0121002197265625" d="-0.014251708984375" tx="281.5" ty="141.45"/>
+                        </matrix>
+                        <GradientEntry color="#FDEA86" ratio="0"/>
+                        <GradientEntry color="#FCFC7F" alpha="0" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!5776 2521|5313 3002!5313 3002|5443 3135!5443 3135|5944 2692!5944 2692|5776 2521"/>
+                    <Edge cubics="!5944 2692(;5944,2692 5776,2521 5776,2521p5944 2692 5776 2521);"/>
+                    <Edge cubics="!5776 2521(;5776,2521 5313,3002 5313,3002p5776 2521 5313 3002);"/>
+                    <Edge cubics="!5313 3002(;5313,3002 5443,3135 5443,3135p5313 3002 5443 3135);"/>
+                    <Edge cubics="!5443 3135(;5443,3135 5944,2692 5944,2692p5443 3135 5944 2692);"/>
+                  </edges>
+                </DOMShape>
+                <DOMSymbolInstance libraryItemName="Tween 6asdfasdf" symbolType="graphic" centerPoint3DX="25.5" centerPoint3DY="-12.9" loop="loop">
+                  <matrix>
+                    <Matrix a="0.353607177734375" b="0.0869598388671875" c="-0.0869598388671875" d="0.353607177734375" tx="25.5" ty="-12.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix a="0.6846923828125" b="0.168365478515625" c="-0.168365478515625" d="0.6846923828125" tx="-126.25" ty="-167.5"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="-0.0446624755859375" b="0.0305023193359375" c="-0.02130126953125" d="-0.0311737060546875" tx="313.5" ty="133.95"/>
+                        </matrix>
+                        <GradientEntry color="#FDEA86" ratio="0"/>
+                        <GradientEntry color="#FCFC7F" alpha="0" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!6901 2058|5476 3179!5476 3179|5561 3297!5561 3297|7063 2317!7063 2317|6901 2058"/>
+                    <Edge cubics="!5561 3297(;5561,3297 7063,2317 7063,2317p5561 3297 7063 2317);"/>
+                    <Edge cubics="!7063 2317(;7063,2317 6901,2058 6901,2058p7063 2317 6901 2058);"/>
+                    <Edge cubics="!6901 2058(;6901,2058 5476,3179 5476,3179p6901 2058 5476 3179);"/>
+                    <Edge cubics="!5476 3179(;5476,3179 5561,3297 5561,3297p5476 3179 5561 3297)5561,3297;"/>
+                  </edges>
+                </DOMShape>
+                <DOMSymbolInstance libraryItemName="Tween 5asdfasdf" symbolType="graphic" centerPoint3DX="19.4" centerPoint3DY="-4.65" loop="loop">
+                  <matrix>
+                    <Matrix a="0.3116455078125" b="0.0766448974609375" c="-0.0766448974609375" d="0.3116455078125" tx="19.35" ty="-4.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix a="0.6846923828125" b="0.168365478515625" c="-0.168365478515625" d="0.6846923828125" tx="-126.2" ty="-167.5"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="-0.0709381103515625" b="0.0291290283203125" c="-0.0122833251953125" d="-0.0299224853515625" tx="341.4" ty="151.85"/>
+                        </matrix>
+                        <GradientEntry color="#FDEA86" ratio="0"/>
+                        <GradientEntry color="#FCFC7F" alpha="0" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!7936 2505|5656 3475!5656 3475|5692 3566!5692 3566|7995 2661!7995 2661|7936 2505"/>
+                    <Edge cubics="!5692 3566(5692,3566;5692,3566 7995,2661 7995,2661p5692 3566 7995 2661);"/>
+                    <Edge cubics="!7995 2661(;7995,2661 7936,2505 7936,2505p7995 2661 7936 2505);"/>
+                    <Edge cubics="!7936 2505(7936,2505;7936,2505 5656,3475 5656,3475p7936 2505 5656 3475);"/>
+                    <Edge cubics="!5656 3475(;5656,3475 5692,3566 5692,3566p5656 3475 5692 3566);"/>
+                  </edges>
+                </DOMShape>
+                <DOMSymbolInstance libraryItemName="Tween 3asdfasdf" symbolType="graphic" centerPoint3DX="16.75" centerPoint3DY="3.3" loop="loop">
+                  <matrix>
+                    <Matrix a="0.28765869140625" b="0.07073974609375" c="-0.07073974609375" d="0.28765869140625" tx="16.75" ty="3.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix a="0.6846923828125" b="0.168365478515625" c="-0.168365478515625" d="0.6846923828125" tx="-126.2" ty="-167.5"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="-0.06060791015625" b="0.013214111328125" c="-0.004058837890625" d="-0.0186004638671875" tx="338.2" ty="175.95"/>
+                        </matrix>
+                        <GradientEntry color="#FDEA86" ratio="0"/>
+                        <GradientEntry color="#FCFC7F" alpha="0" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!7797 3478|5746 3829!5746 3829|5726 3714!5726 3714|7798 3205!7798 3205|7797 3478"/>
+                    <Edge cubics="!7798 3205(7798,3205;7798,3205 7797,3478 7797,3478p7798 3205 7797 3478);"/>
+                    <Edge cubics="!7797 3478(;7797,3478 5746,3829 5746,3829p7797 3478 5746 3829)5746,3829;"/>
+                    <Edge cubics="!5746 3829(;5746,3829 5726,3714 5726,3714p5746 3829 5726 3714);"/>
+                    <Edge cubics="!5726 3714(5726,3714;5726,3714 7798,3205 7798,3205p5726 3714 7798 3205)7798,3205;"/>
+                  </edges>
+                </DOMShape>
+                <DOMSymbolInstance libraryItemName="Tween 2" symbolType="graphic" centerPoint3DX="15.05" centerPoint3DY="8.1" loop="loop">
+                  <matrix>
+                    <Matrix a="0.34759521484375" b="0.085479736328125" c="-0.085479736328125" d="0.34759521484375" tx="15.05" ty="8.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 11" color="#FF800A">
+          <frames>
+            <DOMFrame index="0" duration="53" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="53" duration="11" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="SunCircularRays" blendMode="screen">
+                  <matrix>
+                    <Matrix a="1.49742126464844" d="1.49742126464844" tx="-0.25" ty="0.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="64" duration="30" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="SunCircularRays" selected="true" blendMode="screen">
+                  <matrix>
+                    <Matrix a="1.7738037109375" d="1.7738037109375" tx="-0.25" ty="0.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.21875"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="94" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="SunCircularRays" blendMode="screen" centerPoint3DX="-0.25" centerPoint3DY="0.25">
+                  <matrix>
+                    <Matrix a="2.08061218261719" d="2.08061218261719" tx="-0.25" ty="0.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.1796875"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 4" color="#FF4FFF">
+          <frames>
+            <DOMFrame index="0" duration="26" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="26" duration="10" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="SunCircularRays" selected="true" blendMode="screen">
+                  <matrix>
+                    <Matrix a="1.55223083496094" d="1.55223083496094" tx="-0.25" ty="0.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="36" duration="22" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="SunCircularRays" selected="true" blendMode="screen">
+                  <matrix>
+                    <Matrix a="1.7738037109375" d="1.7738037109375" tx="-0.25" ty="0.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.21875"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="58" duration="36" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="SunCircularRays" blendMode="screen" centerPoint3DX="-0.25" centerPoint3DY="0.25">
+                  <matrix>
+                    <Matrix a="2.3363037109375" d="2.3363037109375" tx="-0.25" ty="0.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.140625"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="94" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="SunCircularRays" blendMode="screen" centerPoint3DX="-0.2" centerPoint3DY="0.2">
+                  <matrix>
+                    <Matrix a="2.796630859375" d="2.796630859375" tx="-0.25" ty="0.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 3" color="#FF800A">
+          <frames>
+            <DOMFrame index="0" duration="22" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="22" duration="10" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="SunCircularRays" selected="true" blendMode="screen">
+                  <matrix>
+                    <Matrix a="1.318115234375" d="1.318115234375" tx="-0.25" ty="0.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="32" duration="28" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="SunCircularRays" selected="true" blendMode="screen">
+                  <matrix>
+                    <Matrix a="1.4849853515625" d="1.4849853515625" tx="-0.25" ty="0.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.21875"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="60" duration="34" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="SunCircularRays" blendMode="screen" centerPoint3DX="-0.3" centerPoint3DY="0.3">
+                  <matrix>
+                    <Matrix a="2.23448181152344" d="2.23448181152344" tx="-0.3" ty="0.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.12890625"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="94" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="SunCircularRays" blendMode="screen" centerPoint3DX="-0.2" centerPoint3DY="0.2">
+                  <matrix>
+                    <Matrix a="2.6627197265625" d="2.6627197265625" tx="-0.2" ty="0.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.03125"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" duration="10" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="10" duration="8" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="SunCircularRays" blendMode="screen">
+                  <matrix>
+                    <Matrix a="1.331787109375" d="1.331787109375" tx="-0.25" ty="0.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="18" duration="28" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="SunCircularRays" selected="true" blendMode="screen">
+                  <matrix>
+                    <Matrix a="1.4849853515625" d="1.4849853515625" tx="-0.25" ty="0.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.21875"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="46" duration="21" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="SunCircularRays" blendMode="screen" centerPoint3DX="-0.3" centerPoint3DY="0.3">
+                  <matrix>
+                    <Matrix a="2.23448181152344" d="2.23448181152344" tx="-0.3" ty="0.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.12890625"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="67" duration="28" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="SunCircularRays" blendMode="screen" centerPoint3DX="-0.2" centerPoint3DY="0.2">
+                  <matrix>
+                    <Matrix a="2.796630859375" d="2.796630859375" tx="-0.25" ty="0.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 10" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" duration="28" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="SunCircularRays" blendMode="screen">
+                  <matrix>
+                    <Matrix a="1.4849853515625" d="1.4849853515625" tx="-0.25" ty="0.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.21875"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="28" duration="21" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="SunCircularRays" blendMode="screen" centerPoint3DX="-0.3" centerPoint3DY="0.3">
+                  <matrix>
+                    <Matrix a="2.23448181152344" d="2.23448181152344" tx="-0.3" ty="0.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.12890625"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="49" duration="46" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="SunCircularRays" blendMode="screen" centerPoint3DX="-0.2" centerPoint3DY="0.2">
+                  <matrix>
+                    <Matrix a="2.796630859375" d="2.796630859375" tx="-0.25" ty="0.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 9" color="#4F80FF">
+          <frames>
+            <DOMFrame index="0" duration="32" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="SunCircularRays" blendMode="screen">
+                  <matrix>
+                    <Matrix a="1.25065612792969" d="1.25065612792969" tx="-0.25" ty="0.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.25"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="32" duration="28" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="SunCircularRays" blendMode="screen" centerPoint3DX="-0.25" centerPoint3DY="0.25">
+                  <matrix>
+                    <Matrix a="2.07518005371094" d="2.07518005371094" tx="-0.25" ty="0.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.1484375"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="60" duration="35" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="SunCircularRays" blendMode="screen" centerPoint3DX="-0.2" centerPoint3DY="0.2">
+                  <matrix>
+                    <Matrix a="2.796630859375" d="2.796630859375" tx="-0.25" ty="0.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 8" color="#FF4F4F">
+          <frames>
+            <DOMFrame index="0" duration="22" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="SunCircularRays" blendMode="screen">
+                  <matrix>
+                    <Matrix a="1.7738037109375" d="1.7738037109375" tx="-0.25" ty="0.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.21875"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="22" duration="18" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="SunCircularRays" blendMode="screen" centerPoint3DX="-0.25" centerPoint3DY="0.25">
+                  <matrix>
+                    <Matrix a="2.3363037109375" d="2.3363037109375" tx="-0.25" ty="0.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.140625"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="40" duration="55" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="SunCircularRays" blendMode="screen" centerPoint3DX="-0.2" centerPoint3DY="0.2">
+                  <matrix>
+                    <Matrix a="2.796630859375" d="2.796630859375" tx="-0.25" ty="0.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 7" color="#669900">
+          <frames>
+            <DOMFrame index="0" duration="94" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="AnimatedRays" blendMode="overlay">
+                  <matrix>
+                    <Matrix a="0.6324462890625" b="-0.0725555419921875" c="0.0725555419921875" d="0.6324462890625" tx="2.05" ty="4.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#FFFF00"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="94" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="AnimatedRays" blendMode="overlay" centerPoint3DX="10.9" centerPoint3DY="-5.6">
+                  <matrix>
+                    <Matrix a="0.36798095703125" b="-0.5184326171875" c="0.5184326171875" d="0.36798095703125" tx="2" ty="4.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#FFFF00"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 6" color="#808080">
+          <frames>
+            <DOMFrame index="0" duration="94" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="AnimatedRays" blendMode="overlay">
+                  <matrix>
+                    <Matrix a="0.599349975585938" b="0.147384643554688" c="-0.147384643554688" d="0.599349975585938" tx="-8.05" ty="6.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#FFFF00"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="94" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="AnimatedRays" blendMode="overlay" centerPoint3DX="5.05" centerPoint3DY="7.1">
+                  <matrix>
+                    <Matrix a="0.6162109375" b="-0.0381927490234375" c="0.0381927490234375" d="0.6162109375" tx="-8.05" ty="6.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#FFFF00"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 5" color="#009999">
+          <frames>
+            <DOMFrame index="0" duration="94" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="AnimatedRays" blendMode="overlay">
+                  <matrix>
+                    <Matrix a="-0.636810302734375" b="-0.89752197265625" c="0.89752197265625" d="-0.636810302734375" tx="-2.95" ty="-5.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.69921875" redMultiplier="0" blueMultiplier="0" greenMultiplier="0" redOffset="255" greenOffset="255"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="94" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="AnimatedRays" blendMode="overlay" centerPoint3DX="-6.9" centerPoint3DY="-29.05">
+                  <matrix>
+                    <Matrix tx="-28.1" ty="-31.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.94921875" redMultiplier="0" blueMultiplier="0" greenMultiplier="0" redOffset="255" greenOffset="255"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

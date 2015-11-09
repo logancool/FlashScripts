@@ -1,0 +1,80 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="SunRay04" itemID="53f792c2-000001bf" symbolType="graphic" lastModified="1408946745">
+  <timeline>
+    <DOMTimeline name="SunRay04">
+      <layers>
+        <DOMLayer name="Layer 2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" duration="57" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="100">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tween 33" symbolType="graphic" centerPoint3DX="-63" centerPoint3DY="-62" loop="loop">
+                  <matrix>
+                    <Matrix a="0.709991455078125" d="0.709991455078125" tx="-63" ty="-62"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="57" duration="37" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="-100">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tween 33" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="94" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tween 33" symbolType="graphic" centerPoint3DX="34" centerPoint3DY="33" loop="loop">
+                  <matrix>
+                    <Matrix a="1.46000671386719" d="1.46000671386719" tx="34" ty="33"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4F80FF" current="true" isSelected="true" layerType="guide">
+          <frames>
+            <DOMFrame index="0" duration="95" keyMode="9728">
+              <elements>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix a="1.14239501953125" d="1.14239501953125" tx="-344.4" ty="-318.95"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="-0.0357818603515625" b="-0.03857421875" c="0.02923583984375" d="-0.027130126953125" tx="301.55" ty="279.3"/>
+                        </matrix>
+                        <GradientEntry color="#FDEA86" ratio="0"/>
+                        <GradientEntry color="#FCFC7F" alpha="0" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!5401 4930|6708 6084!6708 6084|6560 6239!6560 6239|5352 4978!5352 4978|5352 4930!5352 4930|5401 4930"/>
+                    <Edge cubics="!5401 4930(;5401,4930 6708,6084 6708,6084p5401 4930 6708 6084);"/>
+                    <Edge cubics="!6708 6084(;6708,6084 6560,6239 6560,6239p6708 6084 6560 6239);"/>
+                    <Edge cubics="!6560 6239(;6560,6239 5352,4978 5352,4978p6560 6239 5352 4978);"/>
+                    <Edge cubics="!5352 4978(;5352,4978 5352,4930 5352,4930p5352 4978 5352 4930);"/>
+                    <Edge cubics="!5352 4930(;5352,4930 5401,4930 5401,4930p5352 4930 5401 4930);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

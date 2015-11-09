@@ -1,0 +1,12 @@
+<dialog title="JSFL dialog" buttons="accept, cancel">
+  <vbox>
+    <label control="myTextfield" value="Enter some text"/>  
+    <textbox id="myTextfield"/>
+    <label control="myColor" value="Choose a nice color"/>  
+    <radiogroup id="myColor">  
+      <radio label="Orange"/>  
+      <radio selected="true" label="Violet"/>  
+      <radio label="Yellow"/>  
+    </radiogroup>  
+  </vbox>
+</dialog>

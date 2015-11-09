@@ -1,0 +1,57 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="txt_5" itemID="53f3abd5-00000392" lastModified="1433784127">
+  <timeline>
+    <DOMTimeline name="txt_5">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText fontRenderingMode="standard" left="47.75" width="104.4" height="100" autoExpand="true" antiAliasSharpness="46" antiAliasThickness="188" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="33.3" ty="2"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Solar brings you:</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="-5" size="20" bitmapSize="400" characterPosition="superscript" face="Effra-Medium" fillColor="#00AEEF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="-5" size="20" bitmapSize="400" characterPosition="superscript" face="Effra-Light" fillColor="#00AEEF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>$0 down.&#xD;$0 installation fees.&#xD;A reduced carbon &#xD;footprint.</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="-5" size="20" bitmapSize="400" characterPosition="superscript" face="Effra-Light"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter blurX="20" blurY="20" color="#FFFFFF" quality="3" strength="3"/>
+                  </filters>
+                </DOMStaticText>
+                <DOMStaticText fontRenderingMode="standard" width="6.2" height="21.6" autoExpand="true" antiAliasSharpness="46" antiAliasThickness="188" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="586.95" ty="124.55"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters></characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="0" size="18" bitmapSize="360" face="Effra-Light" fillColor="#00AEEF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

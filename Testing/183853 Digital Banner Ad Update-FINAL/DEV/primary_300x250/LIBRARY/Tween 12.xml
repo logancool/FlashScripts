@@ -1,0 +1,264 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tween 12" itemID="53f83538-0000019f" symbolType="graphic" lastModified="1408775480">
+  <timeline>
+    <DOMTimeline name="Tween 12">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="SunRay00" selected="true">
+                  <matrix>
+                    <Matrix tx="164.65" ty="10.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="SunRay01" selected="true">
+                  <matrix>
+                    <Matrix tx="89.4" ty="26.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="SunRay02" selected="true">
+                  <matrix>
+                    <Matrix tx="146.55" ty="70.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="SunRay03" selected="true">
+                  <matrix>
+                    <Matrix tx="96.6" ty="70.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="SunRay04" selected="true">
+                  <matrix>
+                    <Matrix tx="87.7" ty="95.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="SunRay05" selected="true">
+                  <matrix>
+                    <Matrix tx="91.5" ty="138.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="SunRay06" selected="true">
+                  <matrix>
+                    <Matrix tx="49.5" ty="134.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="SunRay07" selected="true">
+                  <matrix>
+                    <Matrix tx="20.5" ty="120.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="SunRay08" selected="true">
+                  <matrix>
+                    <Matrix tx="0.75" ty="151.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="SunRay09" selected="true">
+                  <matrix>
+                    <Matrix tx="-27.2" ty="130.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="SunRay10" selected="true">
+                  <matrix>
+                    <Matrix tx="-53.5" ty="118.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="SunRay11" selected="true">
+                  <matrix>
+                    <Matrix tx="-114.15" ty="118.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="SunRay12" selected="true">
+                  <matrix>
+                    <Matrix tx="-160.35" ty="115.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="SunRay13" selected="true">
+                  <matrix>
+                    <Matrix tx="-91.8" ty="40.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="SunRay14" selected="true">
+                  <matrix>
+                    <Matrix tx="-154.1" ty="36.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="SunRay15" selected="true">
+                  <matrix>
+                    <Matrix tx="-120.75" ty="8.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="SunRay16" selected="true">
+                  <matrix>
+                    <Matrix tx="-151.5" ty="-23.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="SunRay17" selected="true">
+                  <matrix>
+                    <Matrix tx="-164.25" ty="-63.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="SunRay18" selected="true">
+                  <matrix>
+                    <Matrix tx="-110.95" ty="-67.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="SunRay19" selected="true">
+                  <matrix>
+                    <Matrix tx="-108" ty="-98.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="SunRay20" selected="true">
+                  <matrix>
+                    <Matrix tx="-93.05" ty="-121.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.05" y="-0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="SunRay21" selected="true">
+                  <matrix>
+                    <Matrix tx="-64.1" ty="-143.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="SunRay22" selected="true">
+                  <matrix>
+                    <Matrix tx="-31.85" ty="-128"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="SunRay23" selected="true">
+                  <matrix>
+                    <Matrix tx="-4.25" ty="-123.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="SunRay24" selected="true">
+                  <matrix>
+                    <Matrix tx="26.75" ty="-146.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="SunRay25" selected="true">
+                  <matrix>
+                    <Matrix tx="62.05" ty="-143.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="SunRay26" selected="true">
+                  <matrix>
+                    <Matrix tx="91.05" ty="-129.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="SunRay27" selected="true">
+                  <matrix>
+                    <Matrix tx="64.8" ty="-62.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="SunRay28" selected="true">
+                  <matrix>
+                    <Matrix tx="101.4" ty="-70.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="SunRay29" selected="true">
+                  <matrix>
+                    <Matrix tx="133.15" ty="-50.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="SunRay30" selected="true">
+                  <matrix>
+                    <Matrix tx="129.5" ty="-23"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

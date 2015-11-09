@@ -1,0 +1,53 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="AnimatedSun" itemID="53f78896-00000147" lastModified="1408992698" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="AnimatedSun">
+      <layers>
+        <DOMLayer name="Layer 3" color="#FF800A" locked="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <RadialGradient>
+                        <matrix>
+                          <Matrix a="0.0936279296875" d="0.0936279296875" tx="256.45" ty="224.15"/>
+                        </matrix>
+                        <GradientEntry color="#FFFFFA" ratio="0.329411764705882"/>
+                        <GradientEntry color="#FBFB91" ratio="1"/>
+                      </RadialGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!3608 4483[3608 5112 4054 5559!4054 5559[4499 6004 5129 6004!5129 6004[5759 6004 6205 5559!6205 5559[6650 5112 6650 4483!6650 4483[6650 3853 6205 3408!6205 3408[5759 2962 5129 2962!5129 2962[4499 2962 4054 3408!4054 3408[3608 3853 3608
+ 4483"/>
+                    <Edge cubics="!3608 4483(;3608,5322 4289,6004 5129,6004q3608 4483Q3608 5112q4054 5559Q4499 6004q5129 6004);"/>
+                    <Edge cubics="!5129 6004(;5969,6004 6650,5322 6650,4483q5129 6004Q5759 6004q6205 5559Q6650 5112q6650 4483);"/>
+                    <Edge cubics="!6650 4483(6650,4483;6650,3643 5969,2962 5129,2962q6650 4483Q6650 3853q6205 3408Q5759 2962q5129 2962)5129,2962;"/>
+                    <Edge cubics="!5129 2962(;4289,2962 3608,3643 3608,4483q5129 2962Q4499 2962q4054 3408Q3608 3853q3608 4483);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="RotatingSun" selected="true" blendMode="overlay">
+                  <matrix>
+                    <Matrix tx="256.7" ty="223.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

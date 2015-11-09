@@ -1,0 +1,1221 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="animation" itemID="51832cdc-000003a7" lastModified="1433786598" lastUniqueIdentifier="76">
+  <timeline>
+    <DOMTimeline name="animation" currentFrame="302">
+      <layers>
+        <DOMLayer name="Layer 26" color="#9933CC" heightLiteral="18">
+          <frames>
+            <DOMFrame index="0" duration="297" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="incoming" color="#FF4F4F" autoNamed="false" heightLiteral="18">
+          <frames>
+            <DOMFrame index="0" duration="73" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="73" duration="222" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Labels" color="#9933CC" autoNamed="false" heightLiteral="18">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" duration="222" name="LOOP_START" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="223" duration="62" name="STOP" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="285" duration="34" name="RESTART" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="AS" color="#9933CC" autoNamed="false" heightLiteral="18">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="2" duration="221" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="223" duration="77" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[import flash.events.Event;
+this.dispatchEvent(new Event(Event.COMPLETE));
+stop();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="300" duration="18" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[gotoAndPlay("LOOP_START");]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 16" color="#FF4F4F" heightLiteral="18">
+          <frames>
+            <DOMFrame index="0" duration="317" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="317" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 34" color="#9933CC" heightLiteral="18">
+          <frames>
+            <DOMFrame index="0" duration="55" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="55" duration="262" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="317" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 7" color="#669900" heightLiteral="18">
+          <frames>
+            <DOMFrame index="0" duration="317" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="317" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 6" color="#808080" heightLiteral="18">
+          <frames>
+            <DOMFrame index="0" duration="90" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="90" duration="227" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="317" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Home Solar Logo" color="#4F80FF" autoNamed="false" heightLiteral="18">
+          <frames>
+            <DOMFrame index="0" duration="7" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Home Solar Logo">
+                  <matrix>
+                    <Matrix a="0.117645263671875" d="0.117645263671875" tx="224.1" ty="182.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="273.3" y="221"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" duration="30" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Home Solar Logo" centerPoint3DX="256.25" centerPoint3DY="208.75">
+                  <matrix>
+                    <Matrix a="0.117645263671875" d="0.117645263671875" tx="224.1" ty="182.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="273.3" y="221"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="37" duration="10" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Home Solar Logo" selected="true" centerPoint3DX="256.25" centerPoint3DY="208.75">
+                  <matrix>
+                    <Matrix a="0.117645263671875" d="0.117645263671875" tx="224.1" ty="182.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="273.3" y="221"/>
+                  </transformationPoint>
+                  <color>
+                    <Color/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="47" duration="43" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Home Solar Logo" centerPoint3DX="256.25" centerPoint3DY="208.75">
+                  <matrix>
+                    <Matrix a="0.117645263671875" d="0.117645263671875" tx="224.1" ty="182.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="273.3" y="221"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="90" duration="14" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Home Solar Logo" centerPoint3DX="256.25" centerPoint3DY="208.75">
+                  <matrix>
+                    <Matrix a="0.117645263671875" d="0.117645263671875" tx="224.1" ty="182.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="273.3" y="221"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="104" duration="69" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Home Solar Logo" centerPoint3DX="256.25" centerPoint3DY="208.75">
+                  <matrix>
+                    <Matrix a="0.117645263671875" d="0.117645263671875" tx="224.1" ty="182.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="273.3" y="221"/>
+                  </transformationPoint>
+                  <color>
+                    <Color/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="173" duration="10" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Home Solar Logo" centerPoint3DX="256.25" centerPoint3DY="208.75">
+                  <matrix>
+                    <Matrix a="0.117645263671875" d="0.117645263671875" tx="224.1" ty="182.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="273.3" y="221"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="183" duration="31" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Home Solar Logo" centerPoint3DX="256.25" centerPoint3DY="208.75">
+                  <matrix>
+                    <Matrix a="0.117645263671875" d="0.117645263671875" tx="224.1" ty="182.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="273.3" y="221"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="214" duration="9" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Home Solar Logo" centerPoint3DX="256.25" centerPoint3DY="208.75">
+                  <matrix>
+                    <Matrix a="0.117645263671875" d="0.117645263671875" tx="224.1" ty="182.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="273.3" y="221"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="223" duration="80" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Home Solar Logo" centerPoint3DX="256.25" centerPoint3DY="208.75">
+                  <matrix>
+                    <Matrix a="0.117645263671875" d="0.117645263671875" tx="224.1" ty="182.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="273.3" y="221"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="303" duration="14" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Home Solar Logo" centerPoint3DX="256.25" centerPoint3DY="208.75">
+                  <matrix>
+                    <Matrix a="0.117645263671875" d="0.117645263671875" tx="224.1" ty="182.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="273.3" y="221"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="317" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Home Solar Logo" centerPoint3DX="256.25" centerPoint3DY="208.75">
+                  <matrix>
+                    <Matrix a="0.117645263671875" d="0.117645263671875" tx="224.1" ty="182.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="273.3" y="221"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="logoAnimation" color="#FF800A" autoNamed="false" heightLiteral="18">
+          <frames>
+            <DOMFrame index="0" duration="159" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="159" duration="24" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="183" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="184" duration="21" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="logoAnimateFolder/logoAnimation" name="logoAnimation" centerPoint3DX="20.75" centerPoint3DY="20.75">
+                  <transformationPoint>
+                    <Point x="20.75" y="20.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="205" duration="5" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="logoAnimateFolder/logoAnimation" name="logoAnimation" centerPoint3DX="20.75" centerPoint3DY="20.75">
+                  <transformationPoint>
+                    <Point x="20.75" y="20.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="210" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="logoAnimateFolder/logoAnimation" name="logoAnimation" centerPoint3DX="20.75" centerPoint3DY="20.75">
+                  <transformationPoint>
+                    <Point x="20.75" y="20.75"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="211" duration="92" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="303" duration="14" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="317" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 11" color="#FF800A" heightLiteral="18">
+          <frames>
+            <DOMFrame index="0" duration="317" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="317" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 10" color="#9933CC" heightLiteral="18">
+          <frames>
+            <DOMFrame index="0" duration="317" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="317" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 9" color="#4F80FF" heightLiteral="18">
+          <frames>
+            <DOMFrame index="0" duration="317" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="317" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 13" color="#009999" heightLiteral="18">
+          <frames>
+            <DOMFrame index="0" duration="317" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="317" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 15" color="#669900" heightLiteral="18">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="2" duration="315" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="317" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 14" color="#808080" heightLiteral="18">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="2" duration="315" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="317" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 12" color="#FF4FFF" heightLiteral="18">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="2" duration="315" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="317" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 8" color="#FF4F4F" heightLiteral="18">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="2" duration="315" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="317" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 5" color="#009999" heightLiteral="18">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="2" duration="315" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="317" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="txt_5" color="#808080" autoNamed="false" heightLiteral="18">
+          <frames>
+            <DOMFrame index="0" duration="215" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="215" duration="9" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="txt_5" name="txt_5" centerPoint3DX="136" centerPoint3DY="87">
+                  <matrix>
+                    <Matrix tx="19" ty="71"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="117" y="16"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="224" duration="65" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="txt_5" name="txt_5" centerPoint3DX="136" centerPoint3DY="87">
+                  <matrix>
+                    <Matrix tx="19" ty="71"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="117" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="289" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="txt_5" name="txt_5" centerPoint3DX="136" centerPoint3DY="87">
+                  <matrix>
+                    <Matrix tx="19" ty="71"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="117" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="290" duration="13" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="txt_5" name="txt_5" selected="true" centerPoint3DX="136" centerPoint3DY="87">
+                  <matrix>
+                    <Matrix tx="19" ty="71"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="117" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="303" duration="15" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="txt_5" name="txt_5" centerPoint3DX="136" centerPoint3DY="88">
+                  <matrix>
+                    <Matrix tx="19" ty="72"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="117" y="16"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Txt_6" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="119" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="119" duration="11" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Symbol 1" centerPoint3DX="78.05" centerPoint3DY="126.85">
+                  <matrix>
+                    <Matrix tx="26" ty="109.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="52.05" y="17.6"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="130" duration="44" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Symbol 1" selected="true" centerPoint3DX="78.05" centerPoint3DY="126.85">
+                  <matrix>
+                    <Matrix tx="26" ty="109.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="52.05" y="17.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="174" duration="9" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Symbol 1" centerPoint3DX="78.05" centerPoint3DY="126.85">
+                  <matrix>
+                    <Matrix tx="26" ty="109.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="52.05" y="17.6"/>
+                  </transformationPoint>
+                  <color>
+                    <Color/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="183" duration="134" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Symbol 1" centerPoint3DX="78.05" centerPoint3DY="126.85">
+                  <matrix>
+                    <Matrix tx="26" ty="109.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="52.05" y="17.6"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="317" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Symbol 1" centerPoint3DX="78.05" centerPoint3DY="126.85">
+                  <matrix>
+                    <Matrix tx="26" ty="109.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="52.05" y="17.6"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="txt_3" color="#FF4F4F" autoNamed="false" heightLiteral="18">
+          <frames>
+            <DOMFrame index="0" duration="53" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="53" duration="37" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="90" duration="14" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="txt_3" name="txt_3" centerPoint3DX="133" centerPoint3DY="79">
+                  <matrix>
+                    <Matrix tx="16" ty="63"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="117" y="16"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="104" duration="70" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="txt_3" name="txt_3" centerPoint3DX="133" centerPoint3DY="77">
+                  <matrix>
+                    <Matrix tx="16" ty="61"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="117" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="174" duration="9" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="txt_3" name="txt_3" centerPoint3DX="133" centerPoint3DY="77">
+                  <matrix>
+                    <Matrix tx="16" ty="61"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="117" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="183" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="txt_3" name="txt_3" centerPoint3DX="133" centerPoint3DY="76">
+                  <matrix>
+                    <Matrix tx="16" ty="60"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="117" y="16"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="184" duration="133" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="317" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="txt_2" color="#4F80FF" autoNamed="false" heightLiteral="18">
+          <frames>
+            <DOMFrame index="0" duration="50" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="50" duration="9" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="txt_2" name="txt_2" centerPoint3DX="138" centerPoint3DY="38">
+                  <matrix>
+                    <Matrix tx="21" ty="22"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="117" y="16"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="59" duration="22" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="txt_2" name="txt_2" centerPoint3DX="138" centerPoint3DY="38">
+                  <matrix>
+                    <Matrix tx="21" ty="22"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="117" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="81" duration="9" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="txt_2" name="txt_2" centerPoint3DX="138" centerPoint3DY="38">
+                  <matrix>
+                    <Matrix tx="21" ty="22"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="117" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="90" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="txt_2" name="txt_2" centerPoint3DX="138" centerPoint3DY="38">
+                  <matrix>
+                    <Matrix tx="21" ty="22"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="117" y="16"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="91" duration="226" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="317" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="txt_1" color="#9933CC" autoNamed="false" heightLiteral="18">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" duration="8" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="txt_1" name="txt_1" centerPoint3DX="140" centerPoint3DY="118">
+                  <matrix>
+                    <Matrix tx="23" ty="102"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="117" y="16"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="9" duration="12" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="txt_1" name="txt_1" centerPoint3DX="140" centerPoint3DY="118">
+                  <matrix>
+                    <Matrix tx="23" ty="102"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="117" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="21" duration="8" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="txt_1" name="txt_1" centerPoint3DX="140" centerPoint3DY="118">
+                  <matrix>
+                    <Matrix tx="23" ty="102"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="117" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="29" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="txt_1" name="txt_1" centerPoint3DX="140" centerPoint3DY="118">
+                  <matrix>
+                    <Matrix tx="23" ty="102"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="117" y="16"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="30" duration="287" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="317" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 3" color="#FF800A" current="true" isSelected="true" heightLiteral="18">
+          <frames>
+            <DOMFrame index="0" duration="22" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Sun" centerPoint3DX="150" centerPoint3DY="218.5">
+                  <transformationPoint>
+                    <Point x="150" y="230.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="22" duration="26" tweenType="motion" motionTweenSnap="true" hasCustomEase="true" keyMode="22017" acceleration="-100">
+              <tweens>
+                <CustomEase target="all">
+                  <Point/>
+                  <Point x="0.2664"/>
+                  <Point x="0.3863" y="1"/>
+                  <Point x="1" y="1"/>
+                </CustomEase>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Sun">
+                  <transformationPoint>
+                    <Point x="150" y="230.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="48" duration="30" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Sun" centerPoint3DX="150" centerPoint3DY="19.5">
+                  <matrix>
+                    <Matrix ty="-211"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="150" y="230.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="78" duration="8" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Sun" centerPoint3DX="150" centerPoint3DY="19.5">
+                  <matrix>
+                    <Matrix ty="-211"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="150" y="230.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="86" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Sun" centerPoint3DX="150" centerPoint3DY="19.5">
+                  <matrix>
+                    <Matrix ty="-211"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="150" y="230.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="87" duration="231" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 4" color="#FF4FFF" heightLiteral="18">
+          <frames>
+            <DOMFrame index="0" duration="33" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="33" duration="20" tweenType="motion" motionTweenSnap="true" hasCustomEase="true" keyMode="22017">
+              <tweens>
+                <CustomEase target="all">
+                  <Point/>
+                  <Point y="0.5"/>
+                  <Point x="0.4554" y="1"/>
+                  <Point x="1" y="1"/>
+                </CustomEase>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="House">
+                  <matrix>
+                    <Matrix ty="264.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="150" y="117.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="53" duration="30" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="House" centerPoint3DX="150" centerPoint3DY="132.45">
+                  <matrix>
+                    <Matrix ty="14.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="150" y="117.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="83" duration="8" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="House" centerPoint3DX="150" centerPoint3DY="132.45">
+                  <matrix>
+                    <Matrix ty="14.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="150" y="117.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="91" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="House" centerPoint3DX="150" centerPoint3DY="132.45">
+                  <matrix>
+                    <Matrix ty="14.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="150" y="117.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="92" duration="225" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="317" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#9933CC" heightLiteral="18">
+          <frames>
+            <DOMFrame index="0" duration="317" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="317" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 17" color="#4F80FF" heightLiteral="18">
+          <frames>
+            <DOMFrame index="0" duration="81" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="SkyBG">
+                  <matrix>
+                    <Matrix tx="-9" ty="-100.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="159" y="225.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="81" duration="9" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="SkyBG" centerPoint3DX="150" centerPoint3DY="125.45">
+                  <matrix>
+                    <Matrix tx="-9" ty="-100.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="159" y="225.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="90" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="SkyBG" centerPoint3DX="150" centerPoint3DY="125.45">
+                  <matrix>
+                    <Matrix tx="-9" ty="-100.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="159" y="225.95"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="91" duration="226" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="317" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="frame5.jpg" color="#FF4FFF" autoNamed="false" layerType="guide" heightLiteral="18">
+          <frames>
+            <DOMFrame index="0" duration="317" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="317" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="frame4.jpg" color="#009999" autoNamed="false" layerType="guide" heightLiteral="18">
+          <frames>
+            <DOMFrame index="0" duration="77" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="77" duration="240" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="317" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="BG White" color="#9933CC" locked="true" autoNamed="false" heightLiteral="18">
+          <frames>
+            <DOMFrame index="0" duration="317" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!-180 -180S2|6180 -180!6180 -180|6180 5160!6180 5160|-180 5160!-180 5160|-180 -180"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="317" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!-180 -180S2|6180 -180!6180 -180|6180 5160!6180 5160|-180 5160!-180 5160|-180 -180"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="frame3.jpg" color="#808080" autoNamed="false" visible="false" layerType="guide" heightLiteral="18">
+          <frames>
+            <DOMFrame index="0" duration="52" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="52" duration="265" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="frame3.jpg">
+                  <matrix>
+                    <Matrix ty="0.45"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="317" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="frame3.jpg">
+                  <matrix>
+                    <Matrix ty="0.45"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="frame2.jpg" color="#669900" autoNamed="false" visible="false" layerType="guide" heightLiteral="18">
+          <frames>
+            <DOMFrame index="0" duration="19" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="19" duration="298" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="frame2.jpg">
+                  <matrix>
+                    <Matrix ty="0.45"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="317" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="frame2.jpg">
+                  <matrix>
+                    <Matrix ty="0.45"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="frame1.jpg" color="#FF4F4F" autoNamed="false" visible="false" layerType="guide" heightLiteral="18">
+          <frames>
+            <DOMFrame index="0" duration="4" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="4" duration="313" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="frame1.jpg">
+                  <matrix>
+                    <Matrix ty="0.45"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="317" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="frame1.jpg">
+                  <matrix>
+                    <Matrix ty="0.45"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 20" color="#FF4FFF" visible="false" heightLiteral="18">
+          <frames>
+            <DOMFrame index="0" duration="317" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!6100 -161|6100 5099!6100 5099|-140 5099!-140 5099|-140 -161!-140 -161|6100 -161"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="317" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!6100 -161|6100 5099!6100 5099|-140 5099!-140 5099|-140 -161!-140 -161|6100 -161"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="BG Solid" color="#808080" autoNamed="false" visible="false" heightLiteral="18">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFF66"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!6199 -160|6199 5159!6199 5159|-120 5159!-120 5159|-120 -160!-120 -160|6199 -160"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" duration="137" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#00CC33"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!-120 -160|6199 -160!6199 -160|6199 5159!6199 5159|-120 5159!-120 5159|-120 -160"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="138" duration="179" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FF0000"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!6199 5159|-120 5159!-120 5159|-120 -160!-120 -160|6199 -160!6199 -160|6199 5159"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="317" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FF0000"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!6199 5159|-120 5159!-120 5159|-120 -160!-120 -160|6199 -160!6199 -160|6199 5159"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

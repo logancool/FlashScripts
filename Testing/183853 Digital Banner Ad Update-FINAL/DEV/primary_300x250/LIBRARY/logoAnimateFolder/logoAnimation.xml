@@ -1,0 +1,319 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="logoAnimateFolder/logoAnimation" itemID="53799d4f-00006ee1" lastModified="1409002056" lastUniqueIdentifier="27">
+  <timeline>
+    <DOMTimeline name="logoAnimation" currentFrame="27">
+      <layers>
+        <DOMLayer name="L" color="#4FFFFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" name="init" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" duration="34" name="start" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="A" color="#FF4FFF" outline="true" current="true" isSelected="true" useOutlineView="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" duration="33" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="34" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();
+
+MovieClip(parent).playEndFrame();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="end_positives_frame" color="#4FFF4F" outline="true" useOutlineView="true" autoNamed="false" visible="false" layerType="guide">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" duration="34" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="end_positives_anim" centerPoint3DX="40.3" centerPoint3DY="219.2">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 11" color="#FF800A">
+          <frames>
+            <DOMFrame index="0" duration="19" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="19" duration="16" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="mc/logoAnimate" blendMode="multiply" centerPoint3DX="275.9" centerPoint3DY="137.2">
+                  <matrix>
+                    <Matrix a="1.10906982421875" d="1.10906982421875" tx="275.9" ty="137.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#F4D600"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 10" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" duration="17" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="17" duration="18" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="mc/logoAnimate" blendMode="multiply" centerPoint3DX="245.9" centerPoint3DY="172.45">
+                  <matrix>
+                    <Matrix a="0.69317626953125" d="0.69317626953125" tx="245.9" ty="172.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#F4D600"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 9" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" duration="14" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="14" duration="21" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="mc/logoAnimate" blendMode="multiply" centerPoint3DX="213.75" centerPoint3DY="168.25">
+                  <matrix>
+                    <Matrix tx="213.75" ty="168.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#409ADD"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 8" color="#FF4F4F">
+          <frames>
+            <DOMFrame index="0" duration="12" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="12" duration="23" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="mc/logoAnimate" blendMode="multiply" centerPoint3DX="248" centerPoint3DY="46.45">
+                  <matrix>
+                    <Matrix a="0.670822143554688" d="0.670822143554688" tx="248" ty="46.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#F4247A"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 7" color="#4F80FF">
+          <frames>
+            <DOMFrame index="0" duration="11" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="11" duration="24" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="mc/logoAnimate" blendMode="multiply" centerPoint3DX="176.9" centerPoint3DY="101.95">
+                  <matrix>
+                    <Matrix a="1.08811950683594" d="1.08811950683594" tx="176.9" ty="101.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#F4D600"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 6" color="#808080">
+          <frames>
+            <DOMFrame index="0" duration="10" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="10" duration="25" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="mc/logoAnimate" blendMode="multiply" centerPoint3DX="149.15" centerPoint3DY="79.45">
+                  <matrix>
+                    <Matrix a="0.781112670898438" d="0.781112670898438" tx="149.15" ty="79.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#409ADD"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 5" color="#4FFFFF">
+          <frames>
+            <DOMFrame index="0" duration="7" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="7" duration="28" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="mc/logoAnimate" blendMode="multiply" centerPoint3DX="116.9" centerPoint3DY="206.95">
+                  <matrix>
+                    <Matrix a="0.73760986328125" d="0.73760986328125" tx="116.9" ty="206.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#F4D600"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 4" color="#FF4FFF">
+          <frames>
+            <DOMFrame index="0" duration="6" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="6" duration="29" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="mc/logoAnimate" blendMode="multiply" centerPoint3DX="82.25" centerPoint3DY="145.45">
+                  <matrix>
+                    <Matrix a="1.4825439453125" d="1.4825439453125" tx="82.25" ty="145.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#F4247A"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 3" color="#FF800A">
+          <frames>
+            <DOMFrame index="0" duration="5" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="5" duration="30" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="mc/logoAnimate" blendMode="multiply" centerPoint3DX="50.15" centerPoint3DY="111.7">
+                  <matrix>
+                    <Matrix a="0.4317626953125" d="0.4317626953125" tx="50.15" ty="111.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#409ADD"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 14" color="#808080">
+          <frames>
+            <DOMFrame index="0" duration="3" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="3" duration="32" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="mc/logoAnimate" blendMode="multiply" centerPoint3DX="50.15" centerPoint3DY="143.95">
+                  <matrix>
+                    <Matrix tx="50.15" ty="143.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#F4D600"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="2" duration="33" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[ ]]></script>
+              </Actionscript>
+              <elements>
+                <DOMSymbolInstance libraryItemName="mc/logoAnimate" blendMode="multiply" centerPoint3DX="82.25" centerPoint3DY="78.7">
+                  <matrix>
+                    <Matrix a="1.24137878417969" d="1.24137878417969" tx="82.25" ty="78.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#F4247A"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" duration="34" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="mc/logoAnimate" blendMode="multiply" centerPoint3DX="-9.85" centerPoint3DY="27.7">
+                  <matrix>
+                    <Matrix tx="-9.85" ty="27.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#409ADD"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

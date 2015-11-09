@@ -1,0 +1,39 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tween 18" itemID="53fac525-000001ee" symbolType="graphic" lastModified="1408943397">
+  <timeline>
+    <DOMTimeline name="Tween 18">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <matrix>
+                    <Matrix a="1.14239501953125" d="1.14239501953125" tx="-148.7" ty="-125.75"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="0.0541229248046875" b="0.0529937744140625" c="-0.0379180908203125" d="0.038726806640625" tx="130.25" ty="110"/>
+                        </matrix>
+                        <GradientEntry color="#FDEA86" ratio="0"/>
+                        <GradientEntry color="#FCFC7F" alpha="0" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!1650 1401|1724 1312!1724 1312|3557 3012!3557 3012|3476 3091!3476 3091|1650 1401"/>
+                    <Edge cubics="!1650 1401(;1650,1401 1724,1312 1724,1312p1650 1401 1724 1312);"/>
+                    <Edge cubics="!1724 1312(;1724,1312 3557,3012 3557,3012p1724 1312 3557 3012);"/>
+                    <Edge cubics="!3557 3012(;3557,3012 3476,3091 3476,3091p3557 3012 3476 3091);"/>
+                    <Edge cubics="!3476 3091(;3476,3091 1650,1401 1650,1401p3476 3091 1650 1401);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

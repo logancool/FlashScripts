@@ -1,0 +1,29 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="LegalTxt" itemID="53fb81d4-00000557" lastModified="1409271153">
+  <timeline>
+    <DOMTimeline name="LegalTxt">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText selected="true" width="285" height="212" antiAliasSharpness="46" antiAliasThickness="188" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="8" ty="22"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Offer provided by Roof Diagnostics Solar and Electric LLC, a wholly owned subsidiary of NRG Energy, Inc.&#xD;&#xD;*Eligibility and qualification requirements for the $0 money down option vary, and not everyone will qualify. 20-year lease required. Additional eligibility requirements, terms and conditions apply. Please consult your NRG Home Solar specialist for full details and to determine if you are eligible for the $0 money down option. NRG Home Solar may discontinue offering a $0 money down option at any time without prior notice. Savings are not guaranteed and are based on multiple factors including but not limited to system size, location, rebates, and local utility rates. System performance subject to roof tilt, roof material, roof azimuth and surrounding objects causing shade.</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" letterSpacing="-0.2" lineSpacing="1" size="11" bitmapSize="220" face="Effra-Regular" fillColor="#333333"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

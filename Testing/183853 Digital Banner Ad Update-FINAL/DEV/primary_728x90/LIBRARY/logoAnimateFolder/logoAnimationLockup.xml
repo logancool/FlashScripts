@@ -1,0 +1,466 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="logoAnimateFolder/logoAnimationLockup" itemID="53f3b4b9-000004e6" lastModified="1408585718" lastUniqueIdentifier="27">
+  <timeline>
+    <DOMTimeline name="logoAnimationLockup" currentFrame="70">
+      <layers>
+        <DOMLayer name="L" color="#4FFFFF" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" name="init" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" duration="40" name="start" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="A" color="#FF4FFF" locked="true" outline="true" useOutlineView="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" duration="69" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="70" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="logoAnimate" color="#009999" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="28" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="28" duration="12" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="-100">
+              <elements>
+                <DOMSymbolInstance libraryItemName="logoAnimateFolder/logoShape" cacheAsBitmap="true" blendMode="multiply" centerPoint3DX="43.5" centerPoint3DY="80.75">
+                  <matrix>
+                    <Matrix a="-0.032867431640625" d="-0.032867431640625" tx="45.25" ty="82.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="59.35" y="57.8"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0" redMultiplier="0" blueMultiplier="0" greenMultiplier="0" redOffset="64" blueOffset="221" greenOffset="154"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="40" duration="31" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="logoAnimateFolder/logoShape" cacheAsBitmap="true" blendMode="multiply" centerPoint3DX="43.3" centerPoint3DY="80.7">
+                  <matrix>
+                    <Matrix a="-0.07666015625" d="-0.07666015625" tx="47.8" ty="85.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="58.7" y="58.05"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#409ADD"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="logoAnimate" color="#FF4FFF" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="20" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="20" duration="12" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="-100">
+              <elements>
+                <DOMSymbolInstance libraryItemName="logoAnimateFolder/logoShape" cacheAsBitmap="true" blendMode="multiply" centerPoint3DX="11.45" centerPoint3DY="89.9">
+                  <matrix>
+                    <Matrix a="-0.0913543701171875" d="-0.0913543701171875" tx="16.85" ty="95.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="58.55" y="58.55"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0" redMultiplier="0" blueMultiplier="0" greenMultiplier="0" redOffset="244" blueOffset="122" greenOffset="36"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="32" duration="39" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="logoAnimateFolder/logoShape" cacheAsBitmap="true" blendMode="multiply" centerPoint3DX="11.45" centerPoint3DY="89.9">
+                  <matrix>
+                    <Matrix a="-0.310577392578125" d="-0.310577392578125" tx="29.65" ty="108"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="58.45" y="58.3"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#F4247A"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="logoAnimate" color="#FF800A" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="14" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="14" duration="12" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="-100">
+              <elements>
+                <DOMSymbolInstance libraryItemName="logoAnimateFolder/logoShape" cacheAsBitmap="true" blendMode="multiply" centerPoint3DX="31.35" centerPoint3DY="71.3">
+                  <matrix>
+                    <Matrix a="-0.1064453125" d="-0.1064453125" tx="37.45" ty="77.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="58.7" y="58.25"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0" redMultiplier="0" blueMultiplier="0" greenMultiplier="0" redOffset="244" greenOffset="214"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="26" duration="45" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="logoAnimateFolder/logoShape" cacheAsBitmap="true" blendMode="multiply" centerPoint3DX="31.35" centerPoint3DY="71.3">
+                  <matrix>
+                    <Matrix a="-0.33636474609375" d="-0.33636474609375" tx="50.9" ty="90.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="58.55" y="58.25"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#F4D600"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="logoAnimate" color="#9933CC" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="7" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="7" duration="12" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="-100">
+              <elements>
+                <DOMSymbolInstance libraryItemName="logoAnimateFolder/logoShape" cacheAsBitmap="true" blendMode="multiply" centerPoint3DX="14.55" centerPoint3DY="58.4">
+                  <matrix>
+                    <Matrix a="-0.07110595703125" d="-0.07110595703125" tx="18.75" ty="62.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="59.05" y="58.35"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0" redMultiplier="0" blueMultiplier="0" greenMultiplier="0" redOffset="64" blueOffset="221" greenOffset="154"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="19" duration="52" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="logoAnimateFolder/logoShape" cacheAsBitmap="true" blendMode="multiply" centerPoint3DX="14.55" centerPoint3DY="58.4">
+                  <matrix>
+                    <Matrix a="-0.268295288085938" d="-0.268295288085938" tx="30.25" ty="74.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="58.5" y="58.15"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#409ADD"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="logoAnimate" color="#FF4F4F" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" duration="12" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="-100">
+              <elements>
+                <DOMSymbolInstance libraryItemName="logoAnimateFolder/logoShape" cacheAsBitmap="true" blendMode="multiply" centerPoint3DX="49.45" centerPoint3DY="52.35">
+                  <matrix>
+                    <Matrix a="-0.0514984130859375" d="-0.0514984130859375" tx="52.45" ty="55.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="58.25" y="58.25"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0" redMultiplier="0" blueMultiplier="0" greenMultiplier="0" redOffset="244" blueOffset="122" greenOffset="36"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="13" duration="58" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="logoAnimateFolder/logoShape" cacheAsBitmap="true" blendMode="multiply" centerPoint3DX="49.45" centerPoint3DY="52.35">
+                  <matrix>
+                    <Matrix a="-0.128341674804688" d="-0.128341674804688" tx="56.95" ty="59.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="58.45" y="58.05"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#F4247A"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 7" color="#669900" locked="true" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="71" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="logoAnimate" color="#808080" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="30" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="30" duration="9" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="39" duration="12" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="-100">
+              <elements>
+                <DOMSymbolInstance libraryItemName="logoAnimateFolder/logoShape" cacheAsBitmap="true" blendMode="multiply" centerPoint3DX="615.9" centerPoint3DY="11.35">
+                  <matrix>
+                    <Matrix a="0.0432281494140625" d="0.0432281494140625" tx="613.5" ty="8.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="57.85" y="57.85"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0" redMultiplier="0" blueMultiplier="0" greenMultiplier="0" redOffset="244" greenOffset="214"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="51" duration="20" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="logoAnimateFolder/logoShape" cacheAsBitmap="true" blendMode="multiply" centerPoint3DX="615.9" centerPoint3DY="11.35">
+                  <matrix>
+                    <Matrix a="0.1365966796875" d="0.1365966796875" tx="608" ty="3.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="58.55" y="58.55"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#F4D600"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="logoAnimate" color="#009999" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="30" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="30" duration="28" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="58" duration="12" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="-100">
+              <elements>
+                <DOMSymbolInstance libraryItemName="logoAnimateFolder/logoShape" cacheAsBitmap="true" blendMode="multiply" centerPoint3DX="557.8" centerPoint3DY="15.75">
+                  <matrix>
+                    <Matrix a="0.032867431640625" d="0.032867431640625" tx="556" ty="13.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="59.35" y="57.8"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0" redMultiplier="0" blueMultiplier="0" greenMultiplier="0" redOffset="64" blueOffset="221" greenOffset="154"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="70" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="logoAnimateFolder/logoShape" cacheAsBitmap="true" blendMode="multiply" centerPoint3DX="557.95" centerPoint3DY="15.75">
+                  <matrix>
+                    <Matrix a="0.07666015625" d="0.07666015625" tx="553.45" ty="11.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="58.7" y="58.05"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#409ADD"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="logoAnimate" color="#FF4FFF" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="30" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="30" duration="20" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="50" duration="12" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="-100">
+              <elements>
+                <DOMSymbolInstance libraryItemName="logoAnimateFolder/logoShape" cacheAsBitmap="true" blendMode="multiply" centerPoint3DX="589.75" centerPoint3DY="6.6">
+                  <matrix>
+                    <Matrix a="0.0913543701171875" d="0.0913543701171875" tx="584.4" ty="1.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="58.55" y="58.55"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0" redMultiplier="0" blueMultiplier="0" greenMultiplier="0" redOffset="244" blueOffset="122" greenOffset="36"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="62" duration="9" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="logoAnimateFolder/logoShape" cacheAsBitmap="true" blendMode="multiply" centerPoint3DX="589.75" centerPoint3DY="6.6">
+                  <matrix>
+                    <Matrix a="0.310577392578125" d="0.310577392578125" tx="571.6" ty="-11.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="58.45" y="58.3"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#F4247A"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="logoAnimate" color="#FF800A" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="30" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="30" duration="14" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="44" duration="12" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="-100">
+              <elements>
+                <DOMSymbolInstance libraryItemName="logoAnimateFolder/logoShape" cacheAsBitmap="true" blendMode="multiply" centerPoint3DX="569.95" centerPoint3DY="25.2">
+                  <matrix>
+                    <Matrix a="0.1064453125" d="0.1064453125" tx="563.8" ty="19.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="58.7" y="58.25"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0" redMultiplier="0" blueMultiplier="0" greenMultiplier="0" redOffset="244" greenOffset="214"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="56" duration="15" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="logoAnimateFolder/logoShape" cacheAsBitmap="true" blendMode="multiply" centerPoint3DX="569.95" centerPoint3DY="25.2">
+                  <matrix>
+                    <Matrix a="0.33636474609375" d="0.33636474609375" tx="550.35" ty="5.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="58.55" y="58.25"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#F4D600"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="logoAnimate" color="#9933CC" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="30" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="30" duration="7" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="37" duration="12" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="-100">
+              <elements>
+                <DOMSymbolInstance libraryItemName="logoAnimateFolder/logoShape" cacheAsBitmap="true" blendMode="multiply" centerPoint3DX="586.7" centerPoint3DY="38.1">
+                  <matrix>
+                    <Matrix a="0.07110595703125" d="0.07110595703125" tx="582.5" ty="33.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="59.05" y="58.35"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0" redMultiplier="0" blueMultiplier="0" greenMultiplier="0" redOffset="64" blueOffset="221" greenOffset="154"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="49" duration="22" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="logoAnimateFolder/logoShape" cacheAsBitmap="true" blendMode="multiply" centerPoint3DX="586.7" centerPoint3DY="38.1">
+                  <matrix>
+                    <Matrix a="0.268295288085938" d="0.268295288085938" tx="571" ty="22.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="58.5" y="58.15"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#409ADD"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="logoAnimate" color="#FF4FFF" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="30" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="30" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="31" duration="12" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="-100">
+              <elements>
+                <DOMSymbolInstance libraryItemName="logoAnimateFolder/logoShape" cacheAsBitmap="true" blendMode="multiply" centerPoint3DX="551.75" centerPoint3DY="44.05">
+                  <matrix>
+                    <Matrix a="0.0514984130859375" d="0.0514984130859375" tx="548.8" ty="41.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="58.25" y="58.25"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0" redMultiplier="0" blueMultiplier="0" greenMultiplier="0" redOffset="244" blueOffset="122" greenOffset="36"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="43" duration="28" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="logoAnimateFolder/logoShape" cacheAsBitmap="true" blendMode="multiply" centerPoint3DX="551.75" centerPoint3DY="44.05">
+                  <matrix>
+                    <Matrix a="0.128341674804688" d="0.128341674804688" tx="544.3" ty="36.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="58.45" y="58.05"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#F4247A"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

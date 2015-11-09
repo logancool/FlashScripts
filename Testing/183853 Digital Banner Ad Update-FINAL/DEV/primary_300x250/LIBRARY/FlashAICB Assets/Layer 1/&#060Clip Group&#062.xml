@@ -1,0 +1,30 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="FlashAICB Assets/Layer 1/&amp;#060Clip Group&amp;#062" itemID="53f787a4-00000145" lastModified="1408731607">
+  <timeline>
+    <DOMTimeline name="&amp;#060Clip Group&amp;#062">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isDrawingObject="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FBF291"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!0 1331[0 1882 390 2273!390 2273[780 2663 1331 2663!1331 2663[1883 2663 2273 2273!2273 2273[2663 1882 2663 1331!2663 1331[2663 780 2273 390!2273 390[1883 0 1331 0!1331 0[780 0 390 390!390 390[0 780 0 1331"/>
+                    <Edge cubics="!0 1331(;0,2066 596,2663 1331,2663q0 1331Q0 1882q390 2273Q780 2663q1331 2663);"/>
+                    <Edge cubics="!1331 2663(;2067,2663 2663,2066 2663,1331q1331 2663Q1883 2663q2273 2273Q2663 1882q2663 1331);"/>
+                    <Edge cubics="!2663 1331(2663,1331;2663,596 2067,0 1331,0q2663 1331Q2663 780q2273 390Q1883 0q1331 0)1331,0;"/>
+                    <Edge cubics="!1331 0(;596,0 0,596 0,1331q1331 0Q780 0q390 390Q0 780q0 1331);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

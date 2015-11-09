@@ -1,0 +1,38 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="txt_5" itemID="53f3abd5-00000392" lastModified="1433786730">
+  <timeline>
+    <DOMTimeline name="txt_5">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText fontRenderingMode="standard" left="12.9" width="188.35" height="126" autoExpand="true" antiAliasSharpness="46" antiAliasThickness="188" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="25.6" ty="2"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Solar brings you:</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="-6" size="25" bitmapSize="500" characterPosition="superscript" face="Effra-Medium" fillColor="#00AEE9"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>&#xD;$0 down.&#xD;$0 installation fees.&#xD;A reduced carbon footprint.&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="-6" size="25" bitmapSize="500" characterPosition="superscript" face="Effra-Light"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter blurX="20" blurY="20" color="#FFFFFF" quality="3" strength="3"/>
+                  </filters>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,82 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="SunRay30" itemID="53f793a5-00000227" symbolType="graphic" lastModified="1408986578">
+  <timeline>
+    <DOMTimeline name="SunRay30" currentFrame="4">
+      <layers>
+        <DOMLayer name="Layer 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="11" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="100">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tween 2" symbolType="graphic" centerPoint3DX="-96" centerPoint3DY="20.8" loop="loop">
+                  <matrix>
+                    <Matrix a="0.579986572265625" d="0.579986572265625" tx="-96" ty="20.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="11" duration="73" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="-100">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tween 2" symbolType="graphic" centerPoint3DX="-5.05" centerPoint3DY="0.5" loop="loop">
+                  <matrix>
+                    <Matrix a="1.06854248046875" d="1.06854248046875" tx="-5.05" ty="0.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="84" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tween 2" symbolType="graphic" centerPoint3DX="38" centerPoint3DY="-9.05" loop="loop">
+                  <matrix>
+                    <Matrix a="1.29998779296875" d="1.29998779296875" tx="38" ty="-9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4F80FF" locked="true" visible="false" layerType="guide">
+          <frames>
+            <DOMFrame index="0" duration="85" keyMode="9728">
+              <elements>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix a="1.14239501953125" d="1.14239501953125" tx="-386.2" ty="-200.9"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="-0.06060791015625" b="0.013214111328125" c="-0.004058837890625" d="-0.0186004638671875" tx="338.2" ty="175.95"/>
+                        </matrix>
+                        <GradientEntry color="#FDEA86" ratio="0"/>
+                        <GradientEntry color="#FCFC7F" alpha="0" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!7798 3205|7797 3478!7797 3478|5746 3829!5746 3829|5726 3714!5726 3714|7798 3205"/>
+                    <Edge cubics="!7798 3205(7798,3205;7798,3205 7797,3478 7797,3478p7798 3205 7797 3478);"/>
+                    <Edge cubics="!7797 3478(;7797,3478 5746,3829 5746,3829p7797 3478 5746 3829)5746,3829;"/>
+                    <Edge cubics="!5746 3829(;5746,3829 5726,3714 5726,3714p5746 3829 5726 3714);"/>
+                    <Edge cubics="!5726 3714(5726,3714;5726,3714 7798,3205 7798,3205p5726 3714 7798 3205)7798,3205;"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,39 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tween 28" itemID="53fac82f-00000236" symbolType="graphic" lastModified="1408944175">
+  <timeline>
+    <DOMTimeline name="Tween 28">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="23.8" ty="-126.3"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="0.01519775390625" b="-0.0618133544921875" c="0.0616302490234375" d="0.0151519775390625" tx="-23.9" ty="126.3"/>
+                        </matrix>
+                        <GradientEntry color="#FDEA86" ratio="0"/>
+                        <GradientEntry color="#FCFC7F" alpha="0" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!-344 1486|-773 3489!-773 3489|-432 3567!-432 3567|-180 1513!-180 1513|-344 1486"/>
+                    <Edge cubics="!-344 1486(-344,1486;-344,1486 -773,3489 -773,3489p-344 1486 -773 3489);"/>
+                    <Edge cubics="!-773 3489(;-773,3489 -432,3567 -432,3567p-773 3489 -432 3567)-432,3567;"/>
+                    <Edge cubics="!-432 3567(-432,3567;-432,3567 -180,1513 -180,1513p-432 3567 -180 1513);"/>
+                    <Edge cubics="!-180 1513(-180,1513;-180,1513 -344,1486 -344,1486p-180 1513 -344 1486);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,40 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tween 33" itemID="53fac9c1-00000254" symbolType="graphic" lastModified="1408944577">
+  <timeline>
+    <DOMTimeline name="Tween 33">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <matrix>
+                    <Matrix a="1.14239501953125" d="1.14239501953125" tx="-344.4" ty="-318.95"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="-0.0357818603515625" b="-0.03857421875" c="0.02923583984375" d="-0.027130126953125" tx="301.55" ty="279.3"/>
+                        </matrix>
+                        <GradientEntry color="#FDEA86" ratio="0"/>
+                        <GradientEntry color="#FCFC7F" alpha="0" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!6560 6239|5352 4978!5352 4978|5352 4930!5352 4930|5401 4930!5401 4930|6708 6084!6708 6084|6560 6239"/>
+                    <Edge cubics="!5401 4930(;5401,4930 6708,6084 6708,6084p5401 4930 6708 6084);"/>
+                    <Edge cubics="!6708 6084(;6708,6084 6560,6239 6560,6239p6708 6084 6560 6239);"/>
+                    <Edge cubics="!6560 6239(;6560,6239 5352,4978 5352,4978p6560 6239 5352 4978);"/>
+                    <Edge cubics="!5352 4978(;5352,4978 5352,4930 5352,4930p5352 4978 5352 4930);"/>
+                    <Edge cubics="!5352 4930(;5352,4930 5401,4930 5401,4930p5352 4930 5401 4930);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

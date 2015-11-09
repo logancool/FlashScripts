@@ -1,0 +1,25 @@
+Running compile on undefined files at: file:///Macintosh%20HD/Users/gkinner/Documents/flash/compileProject/
+1
+Macintosh HD:Users:gkinner:Documents:flash:compileProject:core.fla
+
+---------------------------------------------------------------------------
+Compiling core.fla
+---------------------------------------------------------------------------
+>> ERROR: Could not set publish profile (testProfile): core.fla
+
+Compiled core.fla successfully.
+>> ERROR: File was not moved correctly: core.swf
+
+---------------------------------------------------------------------------
+Compiling assets/asset1.fla
+---------------------------------------------------------------------------
+
+Compiled assets/asset1.fla successfully.
+>> ERROR: File was not moved correctly: assets/asset1.swf
+
+---------------------------------------------------------------------------
+Compiling assets/asset2.fla
+---------------------------------------------------------------------------
+**Error** Symbol=brokenLinkage, layer=Layer 1, frame=1:Line 1: The class 'MissingClass' could not be loaded.Total ActionScript Errors: 1 	 Reported Errors: 1
+Compiled assets/asset2.fla successfully.
+>> ERROR: File was not moved correctly: assets/asset2.swf

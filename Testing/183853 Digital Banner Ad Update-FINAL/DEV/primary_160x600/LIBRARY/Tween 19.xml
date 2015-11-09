@@ -1,0 +1,39 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tween 19" itemID="53fac570-000001f4" symbolType="graphic" lastModified="1408943472">
+  <timeline>
+    <DOMTimeline name="Tween 19">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <matrix>
+                    <Matrix a="1.14239501953125" d="1.14239501953125" tx="-145.75" ty="-156.25"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="0.0486907958984375" b="0.0290679931640625" c="-0.0175323486328125" d="0.029388427734375" tx="127.6" ty="136.75"/>
+                        </matrix>
+                        <GradientEntry color="#FDEA86" ratio="0"/>
+                        <GradientEntry color="#FCFC7F" alpha="0" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!3314 3297|1738 2344!1738 2344|1849 2174!1849 2174|3365 3222!3365 3222|3314 3297"/>
+                    <Edge cubics="!1738 2344(;1738,2344 1849,2174 1849,2174p1738 2344 1849 2174);"/>
+                    <Edge cubics="!1849 2174(;1849,2174 3365,3222 3365,3222p1849 2174 3365 3222);"/>
+                    <Edge cubics="!3365 3222(;3365,3222 3314,3297 3314,3297p3365 3222 3314 3297);"/>
+                    <Edge cubics="!3314 3297(;3314,3297 1738,2344 1738,2344p3314 3297 1738 2344);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

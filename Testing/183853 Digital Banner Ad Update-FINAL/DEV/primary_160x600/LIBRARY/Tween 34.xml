@@ -1,0 +1,39 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tween 34" itemID="53faca15-0000025a" symbolType="graphic" lastModified="1408944661">
+  <timeline>
+    <DOMTimeline name="Tween 34">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <matrix>
+                    <Matrix a="1.14239501953125" d="1.14239501953125" tx="-353.3" ty="-294.65"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="-0.0341339111328125" b="-0.0237579345703125" c="0.0175323486328125" d="-0.0251922607421875" tx="309.35" ty="258.05"/>
+                        </matrix>
+                        <GradientEntry color="#FDEA86" ratio="0"/>
+                        <GradientEntry color="#FCFC7F" alpha="0" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!6868 5413|5571 4655!5571 4655|5503 4792!5503 4792|6698 5662!6698 5662|6868 5413"/>
+                    <Edge cubics="!6698 5662(;6698,5662 6868,5413 6868,5413p6698 5662 6868 5413);"/>
+                    <Edge cubics="!6868 5413(;6868,5413 5571,4655 5571,4655p6868 5413 5571 4655);"/>
+                    <Edge cubics="!5571 4655(;5571,4655 5503,4792 5503,4792p5571 4655 5503 4792);"/>
+                    <Edge cubics="!5503 4792(;5503,4792 6698,5662 6698,5662p5503 4792 6698 5662);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>
